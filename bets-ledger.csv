@@ -1,0 +1,94 @@
+data,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
+2025-06-25,Turquia x EUA,EUA vence,Resultado,1.9,14,red,0.0,-14
+2025-06-25,Turquia x EUA,Menos 2.5 gols,Gols total,2.1,10,red,0.0,-10
+2025-06-25,Turquia x EUA,Ambas Marcam Sim,BTS,1.66,10,green,16.6,6.6
+2025-06-25,Turquia x EUA,Ricardo Pepi marca,Marcador,2.5,4,red,0.0,-4
+2025-06-25,Turquia x EUA,Resultado Correto 1x1,Resultado Correto,8.0,2,red,0.0,-2
+2025-06-25,Paraguai x Australia,Australia ou Empate + Menos 2.5,Combo,1.75,14,green,24.5,10.5
+2025-06-25,Paraguai x Australia,Mais 2.5 cartoes,Cartoes,1.61,10,red,0.0,-10
+2025-06-25,Paraguai x Australia,Intervalo Empate,1a metade,1.83,10,green,18.3,8.3
+2025-06-25,Paraguai x Australia,Resultado Correto Empate 1x1,Resultado Correto,5.0,4,red,0.0,-4
+2025-06-25,Paraguai x Australia,Resultado Correto Australia 1x0,Resultado Correto,9.0,2,red,0.0,-2
+2025-06-26,Noruega x Franca,Franca Resultado Final,Resultado,1.6,14,green,22.4,8.4
+2025-06-26,Noruega x Franca,Mais 2.5 gols,Gols total,1.57,10,green,15.7,5.7
+2025-06-26,Noruega x Franca,Franca marca +1 (2+),Gols por time,1.4,10,green,14.0,4.0
+2025-06-26,Noruega x Franca,Mbappe marca,Marcador,1.9,3,red,0.0,-3
+2025-06-26,Noruega x Franca,Franca Intervalo,1a metade,2.05,2,green,4.1,2.1
+2025-06-26,Noruega x Franca,Bingo Bet Builder,Bingo,7.0,2,red,0.0,-2
+2025-06-26,Senegal x Iraque,Senegal Win to Nil,Defesa,1.83,14,green,25.62,11.62
+2025-06-26,Senegal x Iraque,Over 2.5,Gols total,1.53,10,green,15.3,5.3
+2025-06-26,Senegal x Iraque,Senegal Handicap -1,Handicap,1.66,10,green,16.6,6.6
+2025-06-26,Senegal x Iraque,Escanteios Senegal +5.5,Escanteios,1.61,6,green,9.66,3.66
+2025-06-26,Senegal x Iraque,Mane primeiro a marcar,Bingo,5.5,2,red,0.0,-2
+2025-06-26,Uruguai x Espanha,Escanteios +8 (9+),Escanteios,1.57,12,red,0.0,-12
+2025-06-26,Uruguai x Espanha,Espanha nao sofre gol,Defesa,1.83,10,green,18.3,8.3
+2025-06-26,Uruguai x Espanha,Under 2.5,Gols total,1.8,8,green,14.4,6.4
+2025-06-26,Uruguai x Espanha,2 ou 3 gols,Faixa de gols,1.95,8,red,0.0,-8
+2025-06-26,Uruguai x Espanha,Lamine Yamal marca,Bingo,2.62,2,red,0.0,-2
+2025-06-26,Cabo Verde x Arabia,Under 2.5,Gols total,1.72,12,green,20.64,8.64
+2025-06-26,Cabo Verde x Arabia,Escanteios +7 (8+),Escanteios,1.5,10,red,0.0,-10
+2025-06-26,Cabo Verde x Arabia,Ambos Marcam Nao,BTS,1.95,8,green,15.6,7.6
+2025-06-26,Cabo Verde x Arabia,Finalizacoes no gol +8.5,Finalizacoes,1.91,8,red,0.0,-8
+2025-06-26,Cabo Verde x Arabia,Empate,Bingo,3.3,2,green,6.6,4.6
+2025-06-26,NZ x Belgica,Belgica Win to Nil,Defesa,1.83,12,red,0.0,-12
+2025-06-26,NZ x Belgica,Escanteios +9.5,Escanteios,1.72,10,green,17.2,7.2
+2025-06-26,NZ x Belgica,Under 3.5,Gols total,1.8,8,red,0.0,-8
+2025-06-26,NZ x Belgica,Ambos Marcam Nao,BTS,1.7,8,red,0.0,-8
+2025-06-26,NZ x Belgica,Bingo Bet Builder,Bingo,2.5,2,green,5.0,3.0
+2025-06-26,Egito x Ira,Egito Empate Anula,Resultado,1.53,12,refund,12,0.0
+2025-06-26,Egito x Ira,Ambos Marcam Nao,BTS,1.67,10,red,0.0,-10
+2025-06-26,Egito x Ira,Escanteios +7 (8+),Escanteios,1.53,8,green,12.24,4.24
+2025-06-26,Egito x Ira,Egito mais chutes ao gol,Finalizacoes,1.83,8,red,0.0,-8
+2025-06-26,Egito x Ira,Bingo Bet Builder,Bingo,6.0,2,red,0.0,-2
+2025-06-27,Panama x Inglaterra,Inglaterra nao sofre gol,Defesa,1.66,12,green,19.92,7.92
+2025-06-27,Panama x Inglaterra,Escanteios +9 (10+),Escanteios,1.8,10,green,18.0,8.0
+2025-06-27,Panama x Inglaterra,Under 3.5,Gols total,1.72,8,green,13.76,5.76
+2025-06-27,Panama x Inglaterra,Inglaterra vence 1o tempo,1a metade,1.5,8,red,0.0,-8
+2025-06-27,Panama x Inglaterra,Bingo Bet Builder,Bingo,11.0,2,red,0.0,-2
+2025-06-27,Croacia x Gana,Under 2.5,Gols total,1.62,21,red,0.0,-21
+2025-06-27,Croacia x Gana,Croacia vence,Resultado,1.75,18,green,31.5,13.5
+2025-06-27,Croacia x Gana,Escanteios +8 (9+),Escanteios,1.73,14,red,0.0,-14
+2025-06-27,Croacia x Gana,Mais 2.5 cartoes,Cartoes,1.67,14,red,0.0,-14
+2025-06-27,Croacia x Gana,Bingo Bet Builder,Bingo,7.0,3,red,0.0,-3
+2025-06-27,RD Congo x Uzbequistao,Congo vence,Resultado,1.66,21,green,34.86,13.86
+2025-06-27,RD Congo x Uzbequistao,Congo mais chutes ao gol,Finalizacoes,1.5,18,green,27.0,9.0
+2025-06-27,RD Congo x Uzbequistao,Congo nao sofre gol,Defesa,1.91,14,red,0.0,-14
+2025-06-27,RD Congo x Uzbequistao,Congo marca 2+ gols,Gols por time,1.9,14,green,26.6,12.6
+2025-06-27,RD Congo x Uzbequistao,Bingo Bet Builder,Bingo,17.0,3,red,0.0,-3
+2025-06-27,Colombia x Portugal,Portugal vence ao menos um tempo,1a/2a metade,1.5,21,red,0.0,-21
+2025-06-27,Colombia x Portugal,Ambos Marcam Sim,BTS,1.66,18,red,0.0,-18
+2025-06-27,Colombia x Portugal,Portugal marca 2+ gols,Gols por time,1.83,14,red,0.0,-14
+2025-06-27,Colombia x Portugal,Colombia +1.5 cartoes,Cartoes,1.72,14,red,0.0,-14
+2025-06-27,Colombia x Portugal,Bingo Bet Builder,Bingo,8.5,3,red,0.0,-3
+2025-06-27,Jordania x Argentina,Argentina nao sofre gol,Defesa,1.57,21,red,0.0,-21
+2025-06-27,Jordania x Argentina,Argentina vence 1o tempo,1a metade,1.5,18,green,27.0,9.0
+2025-06-27,Jordania x Argentina,Over 2.5,Gols total,1.53,14,green,21.42,7.42
+2025-06-27,Jordania x Argentina,Escanteios 9+,Escanteios,1.91,14,red,0.0,-14
+2025-06-27,Jordania x Argentina,Bingo Bet Builder,Bingo,4.5,3,red,0.0,-3
+2025-06-27,Argelia x Austria,Austria Empate Anula,Resultado,1.73,21,refund,21,0.0
+2025-06-27,Argelia x Austria,Ambos Marcam Nao,BTS,1.62,18,red,0.0,-18
+2025-06-27,Argelia x Austria,Finalizacoes no gol 7+,Finalizacoes,1.62,14,green,22.68,8.68
+2025-06-27,Argelia x Austria,1o Tempo Empate,1a metade,1.8,14,green,25.2,11.2
+2025-06-27,Argelia x Austria,Bingo Bet Builder,Bingo,8.0,3,red,0.0,-3
+2025-06-28,Africa do Sul x Canada,Under 2.5,Gols total,1.73,21,green,36.33,15.33
+2025-06-28,Africa do Sul x Canada,Canada vence,Resultado,1.67,18,green,30.06,12.06
+2025-06-28,Africa do Sul x Canada,Escanteios 9+,Escanteios,1.5,14,red,0.0,-14
+2025-06-28,Africa do Sul x Canada,Mais 3.5 cartoes,Cartoes,1.83,14,red,0.0,-14
+2025-06-28,Africa do Sul x Canada,Bingo Bet Builder,Bingo,6.0,3,red,0.0,-3
+2025-06-28,Africa do Sul x Canada,Gol +80min (ao vivo),Extra,2.5,50,green,125.0,75.0
+2025-06-29,Brasil x Japao,Brasil mais chutes ao gol,Finalizacoes,1.5,10,pendente,,
+2025-06-29,Brasil x Japao,Brasil vence,Resultado,1.67,9,pendente,,
+2025-06-29,Brasil x Japao,Ambos Marcam Nao,BTS,1.91,8,pendente,,
+2025-06-29,Brasil x Japao,Brasil marca 2+ gols,Gols por time,1.8,7,pendente,,
+2025-06-29,Brasil x Japao,2 ou 3 gols,Faixa de gols,1.95,6,pendente,,
+2025-06-29,Alemanha x Paraguai,Escanteios +8 (9+),Escanteios,1.67,10,pendente,,
+2025-06-29,Alemanha x Paraguai,Alemanha vence 1o tempo,1a metade,1.73,9,pendente,,
+2025-06-29,Alemanha x Paraguai,Ambos Marcam Nao,BTS,1.7,8,pendente,,
+2025-06-29,Alemanha x Paraguai,Over 2.5,Gols total,1.67,7,pendente,,
+2025-06-29,Alemanha x Paraguai,Mais 2.5 cartoes,Cartoes,1.57,6,pendente,,
+2025-06-29,Holanda x Marrocos,Under 2.5,Gols total,1.66,10,pendente,,
+2025-06-29,Holanda x Marrocos,Holanda Empate Anula,Resultado,1.6,9,pendente,,
+2025-06-29,Holanda x Marrocos,Menos 9.5 escanteios,Escanteios,1.61,8,pendente,,
+2025-06-29,Holanda x Marrocos,Ambos Marcam Nao,BTS,1.9,7,pendente,,
+2025-06-29,Holanda x Marrocos,2 ou 3 gols,Faixa de gols,2.0,6,pendente,,
+2025-07-19,Costa do Marfim campea (futuro),Costa do Marfim campea da Copa,Futuro,301.0,50,pendente,,
