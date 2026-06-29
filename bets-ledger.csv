@@ -78,7 +78,7 @@ data,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-06-28,Africa do Sul x Canada,Gol +80min (ao vivo),Extra,2.5,50,green,125.0,75.0
 2026-06-29,Brasil x Japao,Brasil mais chutes ao gol,Finalizacoes,1.5,10,green,15.0,5.0
 2026-06-29,Brasil x Japao,Brasil vence,Resultado,1.67,9,green,15.03,6.03
-2026-06-29,Brasil x Japao,Ambos Marcam Nao,BTS,1.91,8,red,0.0,-8
+2026-06-29,Brasil x Japao,Ambos Marcam Nao,BTS,1.91,8,cashout,3.12,-4.88
 2026-06-29,Brasil x Japao,Brasil marca 2+ gols,Gols por time,1.8,7,green,12.6,5.6
 2026-06-29,Brasil x Japao,2 ou 3 gols,Faixa de gols,1.95,6,green,11.7,5.7
 2026-06-29,Alemanha x Paraguai,Escanteios +8 (9+),Escanteios,1.67,10,pendente,,
@@ -92,3 +92,6 @@ data,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-06-29,Holanda x Marrocos,Ambos Marcam Nao,BTS,1.9,7,pendente,,
 2026-06-29,Holanda x Marrocos,2 ou 3 gols,Faixa de gols,2.0,6,pendente,,
 2026-07-19,Costa do Marfim campea (futuro),Costa do Marfim campea da Copa,Futuro,301.0,50,pendente,,
+2026-06-29,Brasil x Japao,Brasil Mais de 1.5 (extra),Gols por time,1.72,50,green,86.37,36.37
+2026-06-29,Brasil x Japao,Criar Aposta Endrick+Brasil vence (extra),Combo,7.50,20,red,0.0,-20
+2026-06-29,Brasil x Japao,Mais de 4.5 cartoes (extra),Cartoes,2.00,30,green,60.0,30.0
