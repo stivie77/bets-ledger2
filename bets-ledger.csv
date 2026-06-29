@@ -81,11 +81,11 @@ data,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-06-29,Brasil x Japao,Ambos Marcam Nao,BTS,1.91,8,cashout,3.12,-4.88
 2026-06-29,Brasil x Japao,Brasil marca 2+ gols,Gols por time,1.8,7,green,12.6,5.6
 2026-06-29,Brasil x Japao,2 ou 3 gols,Faixa de gols,1.95,6,green,11.7,5.7
-2026-06-29,Alemanha x Paraguai,Escanteios +8 (9+),Escanteios,1.67,10,pendente,,
-2026-06-29,Alemanha x Paraguai,Alemanha vence 1o tempo,1a metade,1.73,9,pendente,,
-2026-06-29,Alemanha x Paraguai,Ambos Marcam Nao,BTS,1.7,8,pendente,,
-2026-06-29,Alemanha x Paraguai,Over 2.5,Gols total,1.67,7,pendente,,
-2026-06-29,Alemanha x Paraguai,Mais 2.5 cartoes,Cartoes,1.57,6,pendente,,
+2026-06-29,Alemanha x Paraguai,Escanteios +8 (9+),Escanteios,1.67,10,green,16.7,6.7
+2026-06-29,Alemanha x Paraguai,Alemanha vence 1o tempo,1a metade,1.73,9,red,0.0,-9
+2026-06-29,Alemanha x Paraguai,Ambos Marcam Nao,BTS,1.7,8,red,0.0,-8
+2026-06-29,Alemanha x Paraguai,Over 2.5,Gols total,1.67,7,red,0.0,-7
+2026-06-29,Alemanha x Paraguai,Mais 2.5 cartoes,Cartoes,1.57,6,green,9.42,3.42
 2026-06-29,Holanda x Marrocos,Under 2.5,Gols total,1.66,10,pendente,,
 2026-06-29,Holanda x Marrocos,Holanda Empate Anula,Resultado,1.6,9,pendente,,
 2026-06-29,Holanda x Marrocos,Menos 9.5 escanteios,Escanteios,1.61,8,pendente,,
@@ -95,6 +95,6 @@ data,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-06-29,Brasil x Japao,Brasil Mais de 1.5 (extra),Gols por time,1.72,50,green,86.37,36.37
 2026-06-29,Brasil x Japao,Criar Aposta Endrick+Brasil vence (extra),Combo,7.50,20,red,0.0,-20
 2026-06-29,Brasil x Japao,Mais de 4.5 cartoes (extra),Cartoes,2.00,30,green,60.0,30.0
-2026-06-29,Multipla 16avos,Todos os favoritos classificam (max R$4438),Multipla,147.94,30,pendente,,
+2026-06-29,Multipla 16avos,Todos os favoritos classificam (max R$4438),Multipla,147.94,30,red,0.0,-30
 2026-06-29,Multipla 16avos,Bingo 9 pernas (handicaps + dupla chance + unders),Multipla,5.69,20,pendente,,
-2026-06-29,Multipla 16avos,Brasil + Alemanha classificam,Multipla,1.59,100,pendente,,
+2026-06-29,Multipla 16avos,Brasil + Alemanha classificam,Multipla,1.59,100,red,0.0,-100
