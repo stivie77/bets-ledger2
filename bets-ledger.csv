@@ -76,11 +76,11 @@ data,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-06-28,Africa do Sul x Canada,Mais 3.5 cartoes,Cartoes,1.83,14,red,0.0,-14
 2026-06-28,Africa do Sul x Canada,Bingo Bet Builder,Bingo,6.0,3,red,0.0,-3
 2026-06-28,Africa do Sul x Canada,Gol +80min (ao vivo),Extra,2.5,50,green,125.0,75.0
-2026-06-29,Brasil x Japao,Brasil mais chutes ao gol,Finalizacoes,1.5,10,pendente,,
-2026-06-29,Brasil x Japao,Brasil vence,Resultado,1.67,9,pendente,,
-2026-06-29,Brasil x Japao,Ambos Marcam Nao,BTS,1.91,8,pendente,,
-2026-06-29,Brasil x Japao,Brasil marca 2+ gols,Gols por time,1.8,7,pendente,,
-2026-06-29,Brasil x Japao,2 ou 3 gols,Faixa de gols,1.95,6,pendente,,
+2026-06-29,Brasil x Japao,Brasil mais chutes ao gol,Finalizacoes,1.5,10,green,15.0,5.0
+2026-06-29,Brasil x Japao,Brasil vence,Resultado,1.67,9,green,15.03,6.03
+2026-06-29,Brasil x Japao,Ambos Marcam Nao,BTS,1.91,8,red,0.0,-8
+2026-06-29,Brasil x Japao,Brasil marca 2+ gols,Gols por time,1.8,7,green,12.6,5.6
+2026-06-29,Brasil x Japao,2 ou 3 gols,Faixa de gols,1.95,6,green,11.7,5.7
 2026-06-29,Alemanha x Paraguai,Escanteios +8 (9+),Escanteios,1.67,10,pendente,,
 2026-06-29,Alemanha x Paraguai,Alemanha vence 1o tempo,1a metade,1.73,9,pendente,,
 2026-06-29,Alemanha x Paraguai,Ambos Marcam Nao,BTS,1.7,8,pendente,,
