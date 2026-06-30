@@ -113,13 +113,15 @@ data,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-06-30,Costa do Marfim x Noruega,Noruega vence ao menos um tempo,Tempos,1.57,9,green,14.13,5.13
 2026-06-30,Costa do Marfim x Noruega,Ambos Marcam Sim,BTS,1.70,8,green,13.6,5.6
 2026-06-30,Costa do Marfim x Noruega,Over 2.5,Gols total,1.91,7,green,13.37,6.37
-2026-06-30,Franca x Suecia,Over 2.5,Gols total,1.50,11,green,16.5,5.5
-2026-06-30,Franca x Suecia,Franca vence o 1o tempo,1a metade,1.62,10,green,16.2,6.2
-2026-06-30,Franca x Suecia,Finalizacoes no gol +8.5,Finalizacoes,1.67,9,green,15.03,6.03
-2026-06-30,Franca x Suecia,Franca vence por 2+ (Handicap -1),Handicap,1.73,8,green,13.84,5.84
-2026-06-30,Franca x Suecia,Franca marca 3+ gols,Gols por time,1.91,7,green,13.37,6.37
+2026-06-30,Franca x Suecia,Over 2.5,Gols total,1.44,11,green,15.89,4.89
+2026-06-30,Franca x Suecia,Franca vence o 1o tempo,1a metade,1.67,10,green,16.67,6.67
+2026-06-30,Franca x Suecia,Finalizacoes no gol +8.5,Finalizacoes,1.40,9,green,12.60,3.60
+2026-06-30,Franca x Suecia,Franca vence por 2+ (Handicap -1),Handicap,1.80,8,green,14.40,6.40
+2026-06-30,Franca x Suecia,Franca marca 3+ gols,Gols por time,2.00,7,green,14.00,7.00
 2026-06-30,Mexico x Equador,Mexico Empate Anula (DNB),Resultado,1.50,11,pendente,,
 2026-06-30,Mexico x Equador,Ambos Marcam Nao,BTS,1.57,10,pendente,,
 2026-06-30,Mexico x Equador,Mexico mais chutes ao gol,Finalizacoes,1.67,9,pendente,,
 2026-06-30,Mexico x Equador,Mexico vence ao menos um tempo,Tempos,1.73,8,pendente,,
 2026-06-30,Mexico x Equador,1o Tempo Empate,1a metade,1.91,7,pendente,,
+2026-06-30,Costa do Marfim x Noruega,Diomande + Agbadou 2+ desarmes (extra),Props jogador,1.83,50,green,91.67,41.67
+2026-06-30,Costa do Marfim x Noruega,Diallo + Haaland 2+ chutes ao gol (extra),Props jogador,2.5,20,green,50.0,30.0
