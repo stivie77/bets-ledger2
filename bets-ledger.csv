@@ -86,12 +86,12 @@ data,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-06-29,Alemanha x Paraguai,Ambos Marcam Nao,BTS,1.7,8,red,0.0,-8
 2026-06-29,Alemanha x Paraguai,Over 2.5,Gols total,1.67,7,red,0.0,-7
 2026-06-29,Alemanha x Paraguai,Mais 2.5 cartoes,Cartoes,1.57,6,green,9.42,3.42
-2026-06-29,Holanda x Marrocos,Under 2.5,Gols total,1.66,10,pendente,,
-2026-06-29,Holanda x Marrocos,Holanda Empate Anula,Resultado,1.6,9,pendente,,
-2026-06-29,Holanda x Marrocos,Menos 9.5 escanteios,Escanteios,1.61,8,pendente,,
-2026-06-29,Holanda x Marrocos,Ambos Marcam Nao,BTS,1.9,7,pendente,,
-2026-06-29,Holanda x Marrocos,2 ou 3 gols,Faixa de gols,2.0,6,pendente,,
-2026-07-19,Costa do Marfim campea (futuro),Costa do Marfim campea da Copa,Futuro,301.0,50,pendente,,
+2026-06-29,Holanda x Marrocos,Under 2.5,Gols total,1.66,10,green,16.6,6.6
+2026-06-29,Holanda x Marrocos,Holanda Empate Anula,Resultado,1.6,9,refund,9.0,0
+2026-06-29,Holanda x Marrocos,Menos 9.5 escanteios,Escanteios,1.61,8,red,0.0,-8
+2026-06-29,Holanda x Marrocos,Ambos Marcam Nao,BTS,1.9,7,red,0.0,-7
+2026-06-29,Holanda x Marrocos,2 ou 3 gols,Faixa de gols,2.0,6,green,12.0,6.0
+2026-06-30,Costa do Marfim campea (futuro),Costa do Marfim campea da Copa,Futuro,301.0,50,red,0.0,-50
 2026-06-29,Brasil x Japao,Brasil Mais de 1.5 (extra),Gols por time,1.72,50,green,86.37,36.37
 2026-06-29,Brasil x Japao,Criar Aposta Endrick+Brasil vence (extra),Combo,7.50,20,red,0.0,-20
 2026-06-29,Brasil x Japao,Mais de 4.5 cartoes (extra),Cartoes,2.00,30,green,60.0,30.0
@@ -107,17 +107,17 @@ data,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-06-29,Alemanha x Paraguai,Mais 6 escanteios prorrog (ao vivo),Ao vivo,1.80,50,green,90.0,40.0
 2026-06-29,Alemanha x Paraguai,"Mais 7 escanteios prorrog (ao vivo, cashout)",Ao vivo,5.5,20,cashout,50.0,30.0
 2026-06-29,Alemanha x Paraguai,"Mais 8 escanteios prorrog (ao vivo, cashout)",Ao vivo,8.0,50,cashout,30.67,-19.33
-2026-06-29,Holanda x Marrocos,Marrocos Handicap Asiatico +0.5 (extra),Handicap,1.60,50,pendente,,
-2026-06-30,Costa do Marfim x Noruega,Noruega mais chutes ao gol,Finalizacoes,1.50,11,pendente,,
-2026-06-30,Costa do Marfim x Noruega,Costa do Marfim ou Empate,Resultado,1.67,10,pendente,,
-2026-06-30,Costa do Marfim x Noruega,Noruega vence ao menos um tempo,Tempos,1.57,9,pendente,,
-2026-06-30,Costa do Marfim x Noruega,Ambos Marcam Sim,BTS,1.70,8,pendente,,
-2026-06-30,Costa do Marfim x Noruega,Over 2.5,Gols total,1.91,7,pendente,,
-2026-06-30,Franca x Suecia,Over 2.5,Gols total,1.50,11,pendente,,
-2026-06-30,Franca x Suecia,Franca vence o 1o tempo,1a metade,1.62,10,pendente,,
-2026-06-30,Franca x Suecia,Finalizacoes no gol +8.5,Finalizacoes,1.67,9,pendente,,
-2026-06-30,Franca x Suecia,Franca vence por 2+ (Handicap -1),Handicap,1.73,8,pendente,,
-2026-06-30,Franca x Suecia,Franca marca 3+ gols,Gols por time,1.91,7,pendente,,
+2026-06-29,Holanda x Marrocos,Marrocos Handicap Asiatico +0.5 (extra),Handicap,1.60,50,green,80.0,30.0
+2026-06-30,Costa do Marfim x Noruega,Noruega mais chutes ao gol,Finalizacoes,1.50,11,red,0.0,-11
+2026-06-30,Costa do Marfim x Noruega,Costa do Marfim ou Empate,Resultado,1.67,10,red,0.0,-10
+2026-06-30,Costa do Marfim x Noruega,Noruega vence ao menos um tempo,Tempos,1.57,9,green,14.13,5.13
+2026-06-30,Costa do Marfim x Noruega,Ambos Marcam Sim,BTS,1.70,8,green,13.6,5.6
+2026-06-30,Costa do Marfim x Noruega,Over 2.5,Gols total,1.91,7,green,13.37,6.37
+2026-06-30,Franca x Suecia,Over 2.5,Gols total,1.50,11,green,16.5,5.5
+2026-06-30,Franca x Suecia,Franca vence o 1o tempo,1a metade,1.62,10,green,16.2,6.2
+2026-06-30,Franca x Suecia,Finalizacoes no gol +8.5,Finalizacoes,1.67,9,green,15.03,6.03
+2026-06-30,Franca x Suecia,Franca vence por 2+ (Handicap -1),Handicap,1.73,8,green,13.84,5.84
+2026-06-30,Franca x Suecia,Franca marca 3+ gols,Gols por time,1.91,7,green,13.37,6.37
 2026-06-30,Mexico x Equador,Mexico Empate Anula (DNB),Resultado,1.50,11,pendente,,
 2026-06-30,Mexico x Equador,Ambos Marcam Nao,BTS,1.57,10,pendente,,
 2026-06-30,Mexico x Equador,Mexico mais chutes ao gol,Finalizacoes,1.67,9,pendente,,
