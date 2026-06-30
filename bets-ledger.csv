@@ -107,3 +107,19 @@ data,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-06-29,Alemanha x Paraguai,Mais 6 escanteios prorrog (ao vivo),Ao vivo,1.80,50,green,90.0,40.0
 2026-06-29,Alemanha x Paraguai,"Mais 7 escanteios prorrog (ao vivo, cashout)",Ao vivo,5.5,20,cashout,50.0,30.0
 2026-06-29,Alemanha x Paraguai,"Mais 8 escanteios prorrog (ao vivo, cashout)",Ao vivo,8.0,50,cashout,30.67,-19.33
+2026-06-29,Holanda x Marrocos,Marrocos Handicap Asiatico +0.5 (extra),Handicap,1.60,50,pendente,,
+2026-06-30,Costa do Marfim x Noruega,Noruega mais chutes ao gol,Finalizacoes,1.50,11,pendente,,
+2026-06-30,Costa do Marfim x Noruega,Costa do Marfim ou Empate,Resultado,1.67,10,pendente,,
+2026-06-30,Costa do Marfim x Noruega,Noruega vence ao menos um tempo,Tempos,1.57,9,pendente,,
+2026-06-30,Costa do Marfim x Noruega,Ambos Marcam Sim,BTS,1.70,8,pendente,,
+2026-06-30,Costa do Marfim x Noruega,Over 2.5,Gols total,1.91,7,pendente,,
+2026-06-30,Franca x Suecia,Over 2.5,Gols total,1.50,11,pendente,,
+2026-06-30,Franca x Suecia,Franca vence o 1o tempo,1a metade,1.62,10,pendente,,
+2026-06-30,Franca x Suecia,Finalizacoes no gol +8.5,Finalizacoes,1.67,9,pendente,,
+2026-06-30,Franca x Suecia,Franca vence por 2+ (Handicap -1),Handicap,1.73,8,pendente,,
+2026-06-30,Franca x Suecia,Franca marca 3+ gols,Gols por time,1.91,7,pendente,,
+2026-06-30,Mexico x Equador,Mexico Empate Anula (DNB),Resultado,1.50,11,pendente,,
+2026-06-30,Mexico x Equador,Ambos Marcam Nao,BTS,1.57,10,pendente,,
+2026-06-30,Mexico x Equador,Mexico mais chutes ao gol,Finalizacoes,1.67,9,pendente,,
+2026-06-30,Mexico x Equador,Mexico vence ao menos um tempo,Tempos,1.73,8,pendente,,
+2026-06-30,Mexico x Equador,1o Tempo Empate,1a metade,1.91,7,pendente,,
