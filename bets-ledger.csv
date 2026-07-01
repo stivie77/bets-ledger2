@@ -124,7 +124,7 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra marca 2+ gols,Gols por time,1.53,13,green,19.89,6.89
 2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence sem sofrer (Win to Nil),Resultado,1.73,11,red,0.00,-11.00
 2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence o 1o tempo,1a metade,1.73,10,red,0.00,-10.00
-2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence por 2+ (Handicap -1),Handicap,1.83,9,refund,9.00,0.00
+2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence por 2+ (Handicap -1),Handicap,1.83,9,red,0.00,-9.00
 2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Over 2.5,Gols total,2.00,7,green,14.00,7.00
 2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Belgica Empate Anula (DNB),Resultado,1.50,13,pendente,,
 2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Under 2.5,Gols total,1.73,11,pendente,,
