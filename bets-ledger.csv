@@ -121,11 +121,11 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-06-30,Copa do Mundo 2026,Mexico x Equador,1o Tempo Empate,1a metade,1.91,7,red,0.0,-7
 2026-06-30,Copa do Mundo 2026,Costa do Marfim x Noruega,Diomande + Agbadou 2+ desarmes (extra),Props jogador,1.83,50,green,91.67,41.67
 2026-06-30,Copa do Mundo 2026,Costa do Marfim x Noruega,Diallo + Haaland 2+ chutes ao gol (extra),Props jogador,2.5,20,green,50.0,30.0
-2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra marca 2+ gols,Gols por time,1.53,13,pendente,,
-2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence sem sofrer (Win to Nil),Resultado,1.73,11,pendente,,
-2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence o 1o tempo,1a metade,1.73,10,pendente,,
-2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence por 2+ (Handicap -1),Handicap,1.83,9,pendente,,
-2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Over 2.5,Gols total,2.00,7,pendente,,
+2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra marca 2+ gols,Gols por time,1.53,13,green,19.89,6.89
+2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence sem sofrer (Win to Nil),Resultado,1.73,11,red,0.00,-11.00
+2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence o 1o tempo,1a metade,1.73,10,red,0.00,-10.00
+2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence por 2+ (Handicap -1),Handicap,1.83,9,refund,9.00,0.00
+2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Over 2.5,Gols total,2.00,7,green,14.00,7.00
 2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Belgica Empate Anula (DNB),Resultado,1.50,13,pendente,,
 2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Under 2.5,Gols total,1.73,11,pendente,,
 2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Ambos Marcam Sim,BTS,1.80,10,pendente,,
