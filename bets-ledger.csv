@@ -96,7 +96,7 @@ data,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-06-29,Brasil x Japao,Criar Aposta Endrick+Brasil vence (extra),Combo,7.50,20,red,0.0,-20
 2026-06-29,Brasil x Japao,Mais de 4.5 cartoes (extra),Cartoes,2.00,30,green,60.0,30.0
 2026-06-29,Multipla 16avos,Todos os favoritos classificam (max R$4438),Multipla,147.94,30,red,0.0,-30
-2026-06-29,Multipla 16avos,Bingo 9 pernas (handicaps + dupla chance + unders),Multipla,5.69,20,pendente,,
+2026-06-29,Multipla 16avos,Bingo 9 pernas (handicaps + dupla chance + unders),Multipla,5.69,20,red,0.0,-20
 2026-06-29,Multipla 16avos,Brasil + Alemanha classificam,Multipla,1.59,100,red,0.0,-100
 2026-06-29,Alemanha x Paraguai,Mais 5.5 escanteios 1T (ao vivo),Ao vivo,2.20,30,green,66.0,36.0
 2026-06-29,Alemanha x Paraguai,Mais 6 escanteios 1T (ao vivo),Ao vivo,8.0,5,green,40.0,35.0
@@ -118,11 +118,11 @@ data,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-06-30,Franca x Suecia,Finalizacoes no gol +8.5,Finalizacoes,1.40,9,green,12.60,3.60
 2026-06-30,Franca x Suecia,Franca vence por 2+ (Handicap -1),Handicap,1.80,8,green,14.40,6.40
 2026-06-30,Franca x Suecia,Franca marca 3+ gols,Gols por time,2.00,7,green,14.00,7.00
-2026-06-30,Mexico x Equador,Mexico Empate Anula (DNB),Resultado,1.50,11,pendente,,
-2026-06-30,Mexico x Equador,Ambos Marcam Nao,BTS,1.57,10,pendente,,
-2026-06-30,Mexico x Equador,Mexico mais chutes ao gol,Finalizacoes,1.67,9,pendente,,
-2026-06-30,Mexico x Equador,Mexico vence ao menos um tempo,Tempos,1.73,8,pendente,,
-2026-06-30,Mexico x Equador,1o Tempo Empate,1a metade,1.91,7,pendente,,
+2026-06-30,Mexico x Equador,Mexico Empate Anula (DNB),Resultado,1.50,11,green,16.5,5.5
+2026-06-30,Mexico x Equador,Ambos Marcam Nao,BTS,1.57,10,green,15.7,5.7
+2026-06-30,Mexico x Equador,Mexico mais chutes ao gol,Finalizacoes,1.67,9,green,15.03,6.03
+2026-06-30,Mexico x Equador,Mexico vence ao menos um tempo,Tempos,1.73,8,green,13.84,5.84
+2026-06-30,Mexico x Equador,1o Tempo Empate,1a metade,1.91,7,red,0.0,-7
 2026-06-30,Costa do Marfim x Noruega,Diomande + Agbadou 2+ desarmes (extra),Props jogador,1.83,50,green,91.67,41.67
 2026-06-30,Costa do Marfim x Noruega,Diallo + Haaland 2+ chutes ao gol (extra),Props jogador,2.5,20,green,50.0,30.0
 2026-07-01,Inglaterra x Congo,Inglaterra marca 2+ gols,Gols por time,1.53,13,pendente,,
