@@ -126,13 +126,13 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence o 1o tempo,1a metade,1.73,10,red,0.00,-10.00
 2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence por 2+ (Handicap -1),Handicap,1.83,9,red,0.00,-9.00
 2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Over 2.5,Gols total,2.00,7,green,14.00,7.00
-2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Belgica Empate Anula (DNB),Resultado,1.50,13,pendente,,
-2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Under 2.5,Gols total,1.73,11,pendente,,
-2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Ambos Marcam Sim,BTS,1.80,10,pendente,,
-2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Belgica vence ao menos um tempo,Tempos,1.67,9,pendente,,
-2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Finalizacoes no gol +7.5,Finalizacoes,1.83,7,pendente,,
-2026-07-01,Copa do Mundo 2026,EUA x Bosnia,EUA marca 2+ gols,Gols por time,1.50,13,pendente,,
-2026-07-01,Copa do Mundo 2026,EUA x Bosnia,EUA vence por 2+ (Handicap Asiatico -1),Handicap,1.60,11,pendente,,
-2026-07-01,Copa do Mundo 2026,EUA x Bosnia,Over 2.5,Gols total,1.73,10,pendente,,
-2026-07-01,Copa do Mundo 2026,EUA x Bosnia,EUA vence o 1o tempo,1a metade,1.83,9,pendente,,
-2026-07-01,Copa do Mundo 2026,EUA x Bosnia,Ambos Marcam Sim,BTS,1.95,7,pendente,,
+2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Belgica Empate Anula (DNB),Resultado,1.50,13,green,19.50,6.50
+2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Under 2.5,Gols total,1.73,11,red,0.00,-11.00
+2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Ambos Marcam Sim,BTS,1.80,10,green,18.00,8.00
+2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Belgica vence ao menos um tempo,Tempos,1.67,9,green,15.03,6.03
+2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Finalizacoes no gol +7.5,Finalizacoes,1.83,7,green,12.81,5.81
+2026-07-01,Copa do Mundo 2026,EUA x Bosnia,EUA marca 2+ gols,Gols por time,1.50,13,green,19.50,6.50
+2026-07-01,Copa do Mundo 2026,EUA x Bosnia,EUA vence por 2+ (Handicap Asiatico -1),Handicap,1.60,11,green,17.60,6.60
+2026-07-01,Copa do Mundo 2026,EUA x Bosnia,Over 2.5,Gols total,1.73,10,red,0.00,-10.00
+2026-07-01,Copa do Mundo 2026,EUA x Bosnia,EUA vence o 1o tempo,1a metade,1.83,9,green,16.47,7.47
+2026-07-01,Copa do Mundo 2026,EUA x Bosnia,Ambos Marcam Sim,BTS,1.95,7,red,0.00,-7.00
