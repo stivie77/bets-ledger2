@@ -136,3 +136,8 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-07-01,Copa do Mundo 2026,EUA x Bosnia,Over 2.5,Gols total,1.73,10,red,0.00,-10.00
 2026-07-01,Copa do Mundo 2026,EUA x Bosnia,EUA vence o 1o tempo,1a metade,1.83,9,green,16.47,7.47
 2026-07-01,Copa do Mundo 2026,EUA x Bosnia,Ambos Marcam Sim,BTS,1.95,7,red,0.00,-7.00
+2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Portugal vence,Resultado,1.67,13,pendente,,
+2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Ambos Marcam Sim,BTS,1.70,11,pendente,,
+2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Over 2.5,Gols total,1.73,10,pendente,,
+2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Croacia ou Empate no 1o tempo (DC 1T),1a metade,1.62,9,pendente,,
+2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Portugal marca 2+ gols,Gols por time,1.67,7,pendente,,
