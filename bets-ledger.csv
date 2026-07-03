@@ -141,3 +141,8 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Over 2.5,Gols total,1.73,20,green,34.60,14.60
 2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Croacia ou Empate no 1o tempo (DC 1T),1a metade,1.62,20,green,32.40,12.40
 2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Portugal marca 2+ gols,Gols por time,1.67,20,green,33.40,13.40
+2026-07-02,Copa do Mundo 2026,Suica x Argelia,Argelia marca,Gols por time,1.53,16,pendente,,
+2026-07-02,Copa do Mundo 2026,Suica x Argelia,Suica handicap asiatico -0.25,Handicap,1.68,15,pendente,,
+2026-07-02,Copa do Mundo 2026,Suica x Argelia,Nao ha empate no 1o tempo (DC 1T),1a metade,1.67,13,pendente,,
+2026-07-02,Copa do Mundo 2026,Suica x Argelia,Suica vence,Resultado,1.95,11,pendente,,
+2026-07-02,Copa do Mundo 2026,Suica x Argelia,Ambos Marcam Sim,BTS,1.95,10,pendente,,
