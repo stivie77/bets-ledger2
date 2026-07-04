@@ -162,11 +162,11 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-07-03,Copa do Mundo 2026,Colombia x Gana,Gana nao marca,Gols por time,1.67,11,green,18.37,7.37
 2026-07-03,Copa do Mundo 2026,Colombia x Gana,Ambos Marcam Nao,BTS,1.53,10,green,15.30,5.30
 2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Escanteios ao vivo (prorrogacao),Ao vivo,,,green,,196.97
-2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Marrocos vence,Resultado,1.85,15,pendente,,
-2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Canada marca,Gols por time,1.62,15,pendente,,
-2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Canada +0.5 / +1.0 (asiatico),Handicap,1.70,15,pendente,,
-2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Ambos Marcam Sim (0.5 stake),BTS,2.00,7.50,pendente,,
-2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Nao ha empate no 1o tempo (DC 1T),1a metade,1.67,15,pendente,,
+2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Marrocos vence,Resultado,1.85,15,green,27.75,12.75
+2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Canada marca,Gols por time,1.62,15,red,0.00,-15.00
+2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Canada +0.5 / +1.0 (asiatico),Handicap,1.70,15,red,0.00,-15.00
+2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Ambos Marcam Sim (0.5 stake),BTS,2.00,7.50,red,0.00,-7.50
+2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Nao ha empate no 1o tempo (DC 1T),1a metade,1.67,15,red,0.00,-15.00
 2026-07-04,Copa do Mundo 2026,Paraguai x Franca,Paraguai nao marca,Gols por time,1.53,15,pendente,,
 2026-07-04,Copa do Mundo 2026,Paraguai x Franca,Franca vence o 1o tempo,1a metade,1.57,15,pendente,,
 2026-07-04,Copa do Mundo 2026,Paraguai x Franca,Over 2.5,Gols total,1.73,15,pendente,,
