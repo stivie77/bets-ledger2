@@ -146,18 +146,18 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-07-02,Copa do Mundo 2026,Suica x Argelia,Nao ha empate no 1o tempo (DC 1T),1a metade,1.67,13,green,21.71,8.71
 2026-07-02,Copa do Mundo 2026,Suica x Argelia,Suica vence,Resultado,1.95,11,green,21.45,10.45
 2026-07-02,Copa do Mundo 2026,Suica x Argelia,Ambos Marcam Sim,BTS,1.95,10,red,0.00,-10.00
-2026-07-03,Copa do Mundo 2026,Australia x Egito,Ambos Marcam Nao,BTS,1.62,16,pendente,,
-2026-07-03,Copa do Mundo 2026,Australia x Egito,Egito Empate Anula (DNB),Handicap,1.55,15,pendente,,
-2026-07-03,Copa do Mundo 2026,Australia x Egito,Empate no 1o tempo,1a metade,1.91,13,pendente,,
-2026-07-03,Copa do Mundo 2026,Australia x Egito,Australia ou Empate (Dupla Chance),Resultado,1.53,11,pendente,,
-2026-07-03,Copa do Mundo 2026,Australia x Egito,Under 2.5,Gols total,1.40,10,pendente,,
-2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Cabo Verde nao marca,Gols por time,1.44,16,pendente,,
-2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Under 3.5,Gols total,1.53,15,pendente,,
-2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Argentina vence o 1o tempo,1a metade,1.50,13,pendente,,
-2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Argentina vence por 2+ (Handicap -1),Handicap,1.50,11,pendente,,
-2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Argentina marca nos dois tempos,Tempos,1.73,10,pendente,,
-2026-07-03,Copa do Mundo 2026,Colombia x Gana,Colombia handicap asiatico -0.75,Handicap,1.50,16,pendente,,
-2026-07-03,Copa do Mundo 2026,Colombia x Gana,Under 2.5,Gols total,1.73,15,pendente,,
-2026-07-03,Copa do Mundo 2026,Colombia x Gana,Colombia vence o 1o tempo,1a metade,1.91,13,pendente,,
-2026-07-03,Copa do Mundo 2026,Colombia x Gana,Gana nao marca,Gols por time,1.67,11,pendente,,
-2026-07-03,Copa do Mundo 2026,Colombia x Gana,Ambos Marcam Nao,BTS,1.53,10,pendente,,
+2026-07-03,Copa do Mundo 2026,Australia x Egito,Ambos Marcam Nao,BTS,1.62,16,red,0.00,-16.00
+2026-07-03,Copa do Mundo 2026,Australia x Egito,Egito Empate Anula (DNB),Handicap,1.55,15,refund,15.00,0.00
+2026-07-03,Copa do Mundo 2026,Australia x Egito,Empate no 1o tempo,1a metade,1.91,13,red,0.00,-13.00
+2026-07-03,Copa do Mundo 2026,Australia x Egito,Australia ou Empate (Dupla Chance),Resultado,1.53,11,green,16.83,5.83
+2026-07-03,Copa do Mundo 2026,Australia x Egito,Under 2.5,Gols total,1.40,10,green,14.00,4.00
+2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Cabo Verde nao marca,Gols por time,1.44,16,red,0.00,-16.00
+2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Under 3.5,Gols total,1.53,15,green,22.95,7.95
+2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Argentina vence o 1o tempo,1a metade,1.50,13,green,19.50,6.50
+2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Argentina vence por 2+ (Handicap -1),Handicap,1.50,11,red,0.00,-11.00
+2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Argentina marca nos dois tempos,Tempos,1.73,10,red,0.00,-10.00
+2026-07-03,Copa do Mundo 2026,Colombia x Gana,Colombia handicap asiatico -0.75,Handicap,1.50,16,green,24.00,8.00
+2026-07-03,Copa do Mundo 2026,Colombia x Gana,Under 2.5,Gols total,1.73,15,green,25.95,10.95
+2026-07-03,Copa do Mundo 2026,Colombia x Gana,Colombia vence o 1o tempo,1a metade,1.91,13,green,24.83,11.83
+2026-07-03,Copa do Mundo 2026,Colombia x Gana,Gana nao marca,Gols por time,1.67,11,green,18.37,7.37
+2026-07-03,Copa do Mundo 2026,Colombia x Gana,Ambos Marcam Nao,BTS,1.53,10,green,15.30,5.30
