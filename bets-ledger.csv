@@ -176,8 +176,8 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Mais de 0.5 cartao vermelho (extra),Cartoes,,7.50,red,0.00,-7.50
 2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Mais de 1.5 cartao vermelho (extra),Cartoes,,7.50,red,0.00,-7.50
 2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Canada mais de 8.5 escanteios (extra),Escanteios,1.50,15,green,22.50,7.50
-2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Brasil marca 2+ gols [Betano],Gols por time,1.75,15,pendente,,
-2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Over 2.5 [Betano],Gols total,1.75,15,pendente,,
-2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Ambos Marcam Sim [Bet365],BTS,1.67,15,pendente,,
-2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Brasil vence [Betano],Resultado,1.90,15,pendente,,
-2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Brasil marca no 1o tempo [Betano],1a metade,1.75,15,pendente,,
+2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Brasil marca 2+ gols [Betano],Gols por time,1.75,15,red,0.00,-15.00
+2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Over 2.5 [Betano],Gols total,1.75,15,green,26.25,11.25
+2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Ambos Marcam Sim [Bet365],BTS,1.67,15,green,25.05,10.05
+2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Brasil vence [Betano],Resultado,1.90,15,red,0.00,-15.00
+2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Brasil marca no 1o tempo [Betano],1a metade,1.75,15,red,0.00,-15.00
