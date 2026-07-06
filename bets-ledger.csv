@@ -181,8 +181,8 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Ambos Marcam Sim [Bet365],BTS,1.67,15,green,25.05,10.05
 2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Brasil vence [Betano],Resultado,1.90,15,red,0.00,-15.00
 2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Brasil marca no 1o tempo [Betano],1a metade,1.75,15,red,0.00,-15.00
-2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Under 2.5 [Betano],Gols total,1.60,15,pendente,,
-2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Ambos Marcam Nao [Betano],BTS,1.78,15,pendente,,
-2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Inglaterra Empate Anula DNB [Betano],Handicap,1.70,15,pendente,,
-2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Mexico ou Empate (Dupla Chance) [Betano],Resultado,1.57,15,pendente,,
-2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Empate no 1o tempo [Bet365] (0.5 stake),1a metade,2.00,7.50,pendente,,
+2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Under 2.5 [Betano],Gols total,1.60,15,red,0.00,-15.00
+2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Ambos Marcam Nao [Betano],BTS,1.78,15,red,0.00,-15.00
+2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Inglaterra Empate Anula DNB [Betano],Handicap,1.70,15,green,25.50,10.50
+2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Mexico ou Empate (Dupla Chance) [Betano],Resultado,1.57,15,red,0.00,-15.00
+2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Empate no 1o tempo [Bet365] (0.5 stake),1a metade,2.00,7.50,red,0.00,-7.50
