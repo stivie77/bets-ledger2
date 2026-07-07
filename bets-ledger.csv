@@ -186,13 +186,13 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Inglaterra Empate Anula DNB [Betano],Handicap,1.70,15,green,25.50,10.50
 2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Mexico ou Empate (Dupla Chance) [Betano],Resultado,1.57,15,red,0.00,-15.00
 2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Empate no 1o tempo [Bet365] (0.5 stake),1a metade,2.00,7.50,red,0.00,-7.50
-2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Over 2.5 [Betano],Gols total,1.80,22,pendente,,
-2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Ambos Marcam Sim [1xBet],BTS,1.69,22,pendente,,
-2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Portugal ou Empate (Dupla Chance) [1xBet],Resultado,1.92,22,pendente,,
-2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Espanha Empate Anula DNB [1xBet],Handicap,1.45,22,pendente,,
-2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Empate no 1o tempo [Bet365] (0.25 stake),1a metade,2.30,5.50,pendente,,
-2026-07-06,Copa do Mundo 2026,EUA x Belgica,Ambos Marcam Sim [1xBet],BTS,1.55,22,pendente,,
-2026-07-06,Copa do Mundo 2026,EUA x Belgica,Over 2.5 [Betano],Gols total,1.70,22,pendente,,
-2026-07-06,Copa do Mundo 2026,EUA x Belgica,EUA +0.5 (asiatico) [Betano],Handicap,1.53,22,pendente,,
-2026-07-06,Copa do Mundo 2026,EUA x Belgica,Empate ou Belgica (Dupla Chance) [1xBet],Resultado,1.52,22,pendente,,
-2026-07-06,Copa do Mundo 2026,EUA x Belgica,EUA marca 2+ gols [1xBet] (0.5 stake),Gols por time,2.14,11,pendente,,
+2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Over 2.5 [Betano],Gols total,1.80,22,red,0.00,-22.00
+2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Ambos Marcam Sim [1xBet],BTS,1.69,22,red,0.00,-22.00
+2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Portugal ou Empate (Dupla Chance) [1xBet],Resultado,1.92,22,red,0.00,-22.00
+2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Espanha Empate Anula DNB [1xBet],Handicap,1.45,22,green,31.90,9.90
+2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Empate no 1o tempo [Bet365] (0.25 stake),1a metade,2.30,5.50,green,12.65,7.15
+2026-07-06,Copa do Mundo 2026,EUA x Belgica,Ambos Marcam Sim [1xBet],BTS,1.55,22,green,34.10,12.10
+2026-07-06,Copa do Mundo 2026,EUA x Belgica,Over 2.5 [Betano],Gols total,1.70,22,green,37.40,15.40
+2026-07-06,Copa do Mundo 2026,EUA x Belgica,EUA +0.5 (asiatico) [Betano],Handicap,1.53,22,red,0.00,-22.00
+2026-07-06,Copa do Mundo 2026,EUA x Belgica,Empate ou Belgica (Dupla Chance) [1xBet],Resultado,1.52,22,green,33.44,11.44
+2026-07-06,Copa do Mundo 2026,EUA x Belgica,EUA marca 2+ gols [1xBet] (0.5 stake),Gols por time,2.14,11,red,0.00,-11.00
