@@ -196,13 +196,13 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-07-06,Copa do Mundo 2026,EUA x Belgica,EUA +0.5 (asiatico) [Betano],Handicap,1.53,22,red,0.00,-22.00
 2026-07-06,Copa do Mundo 2026,EUA x Belgica,Empate ou Belgica (Dupla Chance) [1xBet],Resultado,1.52,22,green,33.44,11.44
 2026-07-06,Copa do Mundo 2026,EUA x Belgica,EUA marca 2+ gols [1xBet] (0.5 stake),Gols por time,2.14,11,red,0.00,-11.00
-2026-07-07,Copa do Mundo 2026,Argentina x Egito,Ambos Marcam Nao [Betano],BTS,1.57,22,pendente,,
-2026-07-07,Copa do Mundo 2026,Argentina x Egito,Argentina -0.75 (asiatico) [Betano],Handicap,1.50,22,pendente,,
-2026-07-07,Copa do Mundo 2026,Argentina x Egito,Argentina vence o 1o tempo [Betano],1a metade,1.95,22,pendente,,
-2026-07-07,Copa do Mundo 2026,Argentina x Egito,Under 2.5 [Betano],Gols total,1.85,22,pendente,,
-2026-07-07,Copa do Mundo 2026,Argentina x Egito,Ambas Marcam ou Over 2.5 [Betano],Combo,1.62,22,pendente,,
-2026-07-07,Copa do Mundo 2026,Suica x Colombia,Under 2.5 [Betano],Gols total,1.62,22,pendente,,
-2026-07-07,Copa do Mundo 2026,Suica x Colombia,Colombia Empate Anula DNB [1xBet],Handicap,1.56,22,pendente,,
-2026-07-07,Copa do Mundo 2026,Suica x Colombia,Colombia vence [Betano] (0.5 stake),Resultado,2.37,11,pendente,,
-2026-07-07,Copa do Mundo 2026,Suica x Colombia,Ambos Marcam Nao [Betano],BTS,1.82,22,pendente,,
-2026-07-07,Copa do Mundo 2026,Suica x Colombia,Empate no 1o tempo [Bet365] (0.5 stake),1a metade,2.00,11,pendente,,
+2026-07-07,Copa do Mundo 2026,Argentina x Egito,Ambos Marcam Nao [Betano],BTS,1.57,22,red,0.00,-22.00
+2026-07-07,Copa do Mundo 2026,Argentina x Egito,Argentina -0.75 (asiatico) [Betano],Handicap,1.50,22,green,33.00,11.00
+2026-07-07,Copa do Mundo 2026,Argentina x Egito,Argentina vence o 1o tempo [Betano],1a metade,1.95,22,red,0.00,-22.00
+2026-07-07,Copa do Mundo 2026,Argentina x Egito,Under 2.5 [Betano],Gols total,1.85,22,red,0.00,-22.00
+2026-07-07,Copa do Mundo 2026,Argentina x Egito,Ambas Marcam ou Over 2.5 [Betano],Combo,1.62,22,green,35.64,13.64
+2026-07-07,Copa do Mundo 2026,Suica x Colombia,Under 2.5 [Betano],Gols total,1.62,22,green,35.64,13.64
+2026-07-07,Copa do Mundo 2026,Suica x Colombia,Colombia Empate Anula DNB [1xBet],Handicap,1.56,22,refund,22.00,0.00
+2026-07-07,Copa do Mundo 2026,Suica x Colombia,Colombia vence [Betano] (0.5 stake),Resultado,2.37,11,red,0.00,-11.00
+2026-07-07,Copa do Mundo 2026,Suica x Colombia,Ambos Marcam Nao [Betano],BTS,1.82,22,green,40.04,18.04
+2026-07-07,Copa do Mundo 2026,Suica x Colombia,Empate no 1o tempo [Bet365] (0.5 stake),1a metade,2.00,11,green,22.00,11.00
