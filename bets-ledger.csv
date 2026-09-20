@@ -207,3 +207,18 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-07-07,Copa do Mundo 2026,Suica x Colombia,Ambos Marcam Nao [Betano],BTS,1.82,22,green,40.04,18.04
 2026-07-07,Copa do Mundo 2026,Suica x Colombia,Empate no 1o tempo [Bet365] (0.5 stake),1a metade,2.00,11,green,22.00,11.00
 2026-07-07,Atletico-MG (avulso),Atletico-MG (ao vivo),Escanteios ao vivo - canto limite (2 bets),Ao vivo,,,green,,150.50
+2026-09-20,Brasileirao 2026,Flamengo x Bragantino,Flamengo -1 (asiatico) [Betano],Handicap,1.57,10,pendente,,
+2026-09-20,Brasileirao 2026,Flamengo x Bragantino,Over 2.5 [Betano],Gols total,1.57,10,pendente,,
+2026-09-20,Brasileirao 2026,Flamengo x Bragantino,Flamengo vence o 1o tempo [Betano],1a metade,1.85,10,pendente,,
+2026-09-20,Brasileirao 2026,Flamengo x Bragantino,Flamengo marca 2+ gols [Betano],Gols por time,1.42,10,pendente,,
+2026-09-20,Brasileirao 2026,Flamengo x Bragantino,Ambos Marcam Nao [Betano] (0.5 stake),BTS,1.98,5,pendente,,
+2026-09-20,Serie A Italia 2026,Milan x Lecce,Milan -1.5 (asiatico) [Betano],Handicap,1.78,10,pendente,,
+2026-09-20,Serie A Italia 2026,Milan x Lecce,Over 2.5 [Betano],Gols total,1.62,10,pendente,,
+2026-09-20,Serie A Italia 2026,Milan x Lecce,Milan vence o 1o tempo [Betano],1a metade,1.72,10,pendente,,
+2026-09-20,Serie A Italia 2026,Milan x Lecce,Lecce nao marca [Betano],Gols por time,1.83,10,pendente,,
+2026-09-20,Serie A Italia 2026,Milan x Lecce,Ambos Marcam Nao [Betano],BTS,1.72,10,pendente,,
+2026-09-20,Ligue 1 2026,Marseille x PSG,PSG vence [Betano],Resultado,1.50,10,pendente,,
+2026-09-20,Ligue 1 2026,Marseille x PSG,Ambos Marcam Sim [Betano],BTS,1.50,10,pendente,,
+2026-09-20,Ligue 1 2026,Marseille x PSG,PSG vence o 1o tempo [Betano],1a metade,1.91,10,pendente,,
+2026-09-20,Ligue 1 2026,Marseille x PSG,Over 2.5 [Betano],Gols total,1.38,10,pendente,,
+2026-09-20,Ligue 1 2026,Marseille x PSG,PSG marca 2+ gols [Betano],Gols por time,1.35,10,pendente,,
