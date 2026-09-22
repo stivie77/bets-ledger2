@@ -240,3 +240,18 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-09-21,Multipla clubes 2026,Multipla (Aceval + N.Chicago),1X B.Aceval + 1X Nueva Chicago (chance dupla),Multipla,1.72,10,green,17.20,7.20
 2026-09-21,Multipla clubes 2026,Multipla (Criciuma+Otelul+Cuiaba),Criciuma 1X + Otelul U4.5 + Cuiaba U3.5,Multipla,1.63,10,red,0.00,-10.00
 2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Cuiaba marca o primeiro gol (ao vivo) [Betano],Primeiro gol,1.67,10,green,16.70,6.70
+2026-09-22,Colombia Primera A 2026,Medellin x Jaguares,Medellin -1.0 (asiatico) [Betano],Handicap,1.50,10,pendente,,
+2026-09-22,Colombia Primera A 2026,Medellin x Jaguares,Over 2.5 [Betano],Gols total,1.67,10,pendente,,
+2026-09-22,Colombia Primera A 2026,Medellin x Jaguares,Medellin vence o 1o tempo [Betano],1a metade,1.80,10,pendente,,
+2026-09-22,Colombia Primera A 2026,Medellin x Jaguares,Medellin marca 2+ gols [Betano],Gols por time,1.45,10,pendente,,
+2026-09-22,Colombia Primera A 2026,Medellin x Jaguares,Medellin vence [Betano],Resultado,1.37,10,pendente,,
+2026-09-22,EFL Trophy 2026,MK Dons x Crawley,MK Dons -0.5/-1.0 (asiatico) [Betano],Handicap,1.62,10,pendente,,
+2026-09-22,EFL Trophy 2026,MK Dons x Crawley,Over 2.5 [Betano],Gols total,1.40,10,pendente,,
+2026-09-22,EFL Trophy 2026,MK Dons x Crawley,MK Dons marca 2+ gols [Betano],Gols por time,1.42,10,pendente,,
+2026-09-22,EFL Trophy 2026,MK Dons x Crawley,MK Dons vence [Betano],Resultado,1.53,10,pendente,,
+2026-09-22,EFL Trophy 2026,MK Dons x Crawley,MK Dons vence o 1o tempo [Betano] (0.5 stake),1a metade,1.98,5,pendente,,
+2026-09-22,EFL Trophy 2026,Peterborough x Colchester,Peterborough 0/-0.5 (asiatico) [Betano],Handicap,1.67,10,pendente,,
+2026-09-22,EFL Trophy 2026,Peterborough x Colchester,Over 2.5 [Betano],Gols total,1.60,10,pendente,,
+2026-09-22,EFL Trophy 2026,Peterborough x Colchester,Peterborough marca 2+ gols [Betano],Gols por time,1.75,10,pendente,,
+2026-09-22,EFL Trophy 2026,Peterborough x Colchester,Peterborough vence [Betano],Resultado,1.93,10,pendente,,
+2026-09-22,EFL Trophy 2026,Peterborough x Colchester,Ambos Marcam Sim [Betano] (0.5 stake),BTS,1.53,5,pendente,,
