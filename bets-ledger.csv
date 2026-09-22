@@ -222,21 +222,21 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-09-20,Ligue 1 2026,Marseille x PSG,PSG vence o 1o tempo [Betano],1a metade,1.91,10,red,0.00,-10.00
 2026-09-20,Ligue 1 2026,Marseille x PSG,Over 2.5 [Betano],Gols total,1.38,10,green,13.80,3.80
 2026-09-20,Ligue 1 2026,Marseille x PSG,PSG marca 2+ gols [Betano],Gols por time,1.35,10,green,13.50,3.50
-2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Petrolul vence [Betano],Resultado,1.78,10,pendente,,
-2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Petrolul marca 2+ gols [Betano],Gols por time,1.91,10,pendente,,
-2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Under 2.5 [Betano],Gols total,1.82,10,pendente,,
-2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Petrolul 0/-0.5 (asiatico) [Betano],Handicap,1.57,10,pendente,,
-2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Ambos Marcam Nao [Betano],BTS,1.87,10,pendente,,
-2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Under 2.5 [Betano],Gols total,1.50,10,pendente,,
-2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Ambos Marcam Nao [Betano],BTS,1.65,10,pendente,,
-2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Lanus 0/-0.5 (asiatico) [Betano],Handicap,1.85,10,pendente,,
-2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Empate no 1o tempo [Betano],1a metade,1.87,10,pendente,,
-2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Estudiantes nao marca [Betano] (0.5 stake),Gols por time,2.15,5,pendente,,
-2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Under 2.5 [Betano],Gols total,1.62,10,pendente,,
-2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Ambos Marcam Nao [Betano],BTS,1.78,10,pendente,,
-2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Cuiaba 0/-0.5 (asiatico) [Betano],Handicap,1.75,10,pendente,,
-2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Empate no 1o tempo [Betano],1a metade,1.95,10,pendente,,
-2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Nautico nao marca [Betano] (0.5 stake),Gols por time,2.37,5,pendente,,
+2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Petrolul vence [Betano],Resultado,1.78,10,green,17.80,7.80
+2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Petrolul marca 2+ gols [Betano],Gols por time,1.91,10,green,19.10,9.10
+2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Under 2.5 [Betano],Gols total,1.82,10,green,18.20,8.20
+2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Petrolul 0/-0.5 (asiatico) [Betano],Handicap,1.57,10,green,15.70,5.70
+2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Ambos Marcam Nao [Betano],BTS,1.87,10,green,18.70,8.70
+2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Under 2.5 [Betano],Gols total,1.50,10,red,0.00,-10.00
+2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Ambos Marcam Nao [Betano],BTS,1.65,10,red,0.00,-10.00
+2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Lanus 0/-0.5 (asiatico) [Betano],Handicap,1.85,10,green,18.50,8.50
+2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Empate no 1o tempo [Betano],1a metade,1.87,10,red,0.00,-10.00
+2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Estudiantes nao marca [Betano] (0.5 stake),Gols por time,2.15,5,red,0.00,-5.00
+2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Under 2.5 [Betano],Gols total,1.62,10,red,0.00,-10.00
+2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Ambos Marcam Nao [Betano],BTS,1.78,10,green,17.80,7.80
+2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Cuiaba 0/-0.5 (asiatico) [Betano],Handicap,1.75,10,green,17.50,7.50
+2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Empate no 1o tempo [Betano],1a metade,1.95,10,red,0.00,-10.00
+2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Nautico nao marca [Betano] (0.5 stake),Gols por time,2.37,5,green,11.85,6.85
 2026-09-21,Multipla clubes 2026,Multipla (Aceval + N.Chicago),1X B.Aceval + 1X Nueva Chicago (chance dupla),Multipla,1.72,10,pendente,,
 2026-09-21,Multipla clubes 2026,Multipla (Criciuma+Otelul+Cuiaba),Criciuma 1X + Otelul U4.5 + Cuiaba U3.5,Multipla,1.63,10,pendente,,
-2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Cuiaba marca o primeiro gol (ao vivo) [Betano],Primeiro gol,1.67,10,pendente,,
+2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Cuiaba marca o primeiro gol (ao vivo) [Betano],Primeiro gol,1.67,10,green,16.70,6.70
