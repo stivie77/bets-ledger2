@@ -1,273 +1,274 @@
 data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
-2026-06-25,Copa do Mundo 2026,Turquia x EUA,EUA vence,Resultado,1.9,14,red,0.0,-14
-2026-06-25,Copa do Mundo 2026,Turquia x EUA,Menos 2.5 gols,Gols total,2.1,10,red,0.0,-10
+2026-06-25,Copa do Mundo 2026,Turquia x EUA,EUA vence,Resultado,1.9,14,red,0,-14
+2026-06-25,Copa do Mundo 2026,Turquia x EUA,Menos 2.5 gols,Gols total,2.1,10,red,0,-10
 2026-06-25,Copa do Mundo 2026,Turquia x EUA,Ambas Marcam Sim,BTS,1.66,10,green,16.6,6.6
-2026-06-25,Copa do Mundo 2026,Turquia x EUA,Ricardo Pepi marca,Marcador,2.5,4,red,0.0,-4
-2026-06-25,Copa do Mundo 2026,Turquia x EUA,Resultado Correto 1x1,Resultado Correto,8.0,2,red,0.0,-2
+2026-06-25,Copa do Mundo 2026,Turquia x EUA,Ricardo Pepi marca,Marcador,2.5,4,red,0,-4
+2026-06-25,Copa do Mundo 2026,Turquia x EUA,Resultado Correto 1x1,Resultado Correto,8,2,red,0,-2
 2026-06-25,Copa do Mundo 2026,Paraguai x Australia,Australia ou Empate + Menos 2.5,Combo,1.75,14,green,24.5,10.5
-2026-06-25,Copa do Mundo 2026,Paraguai x Australia,Mais 2.5 cartoes,Cartoes,1.61,10,red,0.0,-10
+2026-06-25,Copa do Mundo 2026,Paraguai x Australia,Mais 2.5 cartoes,Cartoes,1.61,10,red,0,-10
 2026-06-25,Copa do Mundo 2026,Paraguai x Australia,Intervalo Empate,1a metade,1.83,10,green,18.3,8.3
-2026-06-25,Copa do Mundo 2026,Paraguai x Australia,Resultado Correto Empate 1x1,Resultado Correto,5.0,4,red,0.0,-4
-2026-06-25,Copa do Mundo 2026,Paraguai x Australia,Resultado Correto Australia 1x0,Resultado Correto,9.0,2,red,0.0,-2
+2026-06-25,Copa do Mundo 2026,Paraguai x Australia,Resultado Correto Empate 1x1,Resultado Correto,5,4,red,0,-4
+2026-06-25,Copa do Mundo 2026,Paraguai x Australia,Resultado Correto Australia 1x0,Resultado Correto,9,2,red,0,-2
 2026-06-26,Copa do Mundo 2026,Noruega x Franca,Franca Resultado Final,Resultado,1.6,14,green,22.4,8.4
 2026-06-26,Copa do Mundo 2026,Noruega x Franca,Mais 2.5 gols,Gols total,1.57,10,green,15.7,5.7
-2026-06-26,Copa do Mundo 2026,Noruega x Franca,Franca marca +1 (2+),Gols por time,1.4,10,green,14.0,4.0
-2026-06-26,Copa do Mundo 2026,Noruega x Franca,Mbappe marca,Marcador,1.9,3,red,0.0,-3
+2026-06-26,Copa do Mundo 2026,Noruega x Franca,Franca marca +1 (2+),Gols por time,1.4,10,green,14,4
+2026-06-26,Copa do Mundo 2026,Noruega x Franca,Mbappe marca,Marcador,1.9,3,red,0,-3
 2026-06-26,Copa do Mundo 2026,Noruega x Franca,Franca Intervalo,1a metade,2.05,2,green,4.1,2.1
-2026-06-26,Copa do Mundo 2026,Noruega x Franca,Bingo Bet Builder,Bingo,7.0,2,red,0.0,-2
+2026-06-26,Copa do Mundo 2026,Noruega x Franca,Bingo Bet Builder,Bingo,7,2,red,0,-2
 2026-06-26,Copa do Mundo 2026,Senegal x Iraque,Senegal Win to Nil,Defesa,1.83,14,green,25.62,11.62
 2026-06-26,Copa do Mundo 2026,Senegal x Iraque,Over 2.5,Gols total,1.53,10,green,15.3,5.3
 2026-06-26,Copa do Mundo 2026,Senegal x Iraque,Senegal Handicap -1,Handicap,1.66,10,green,16.6,6.6
 2026-06-26,Copa do Mundo 2026,Senegal x Iraque,Escanteios Senegal +5.5,Escanteios,1.61,6,green,9.66,3.66
-2026-06-26,Copa do Mundo 2026,Senegal x Iraque,Mane primeiro a marcar,Bingo,5.5,2,red,0.0,-2
-2026-06-26,Copa do Mundo 2026,Uruguai x Espanha,Escanteios +8 (9+),Escanteios,1.57,12,red,0.0,-12
+2026-06-26,Copa do Mundo 2026,Senegal x Iraque,Mane primeiro a marcar,Bingo,5.5,2,red,0,-2
+2026-06-26,Copa do Mundo 2026,Uruguai x Espanha,Escanteios +8 (9+),Escanteios,1.57,12,red,0,-12
 2026-06-26,Copa do Mundo 2026,Uruguai x Espanha,Espanha nao sofre gol,Defesa,1.83,10,green,18.3,8.3
 2026-06-26,Copa do Mundo 2026,Uruguai x Espanha,Under 2.5,Gols total,1.8,8,green,14.4,6.4
-2026-06-26,Copa do Mundo 2026,Uruguai x Espanha,2 ou 3 gols,Faixa de gols,1.95,8,red,0.0,-8
-2026-06-26,Copa do Mundo 2026,Uruguai x Espanha,Lamine Yamal marca,Bingo,2.62,2,red,0.0,-2
+2026-06-26,Copa do Mundo 2026,Uruguai x Espanha,2 ou 3 gols,Faixa de gols,1.95,8,red,0,-8
+2026-06-26,Copa do Mundo 2026,Uruguai x Espanha,Lamine Yamal marca,Bingo,2.62,2,red,0,-2
 2026-06-26,Copa do Mundo 2026,Cabo Verde x Arabia,Under 2.5,Gols total,1.72,12,green,20.64,8.64
-2026-06-26,Copa do Mundo 2026,Cabo Verde x Arabia,Escanteios +7 (8+),Escanteios,1.5,10,red,0.0,-10
+2026-06-26,Copa do Mundo 2026,Cabo Verde x Arabia,Escanteios +7 (8+),Escanteios,1.5,10,red,0,-10
 2026-06-26,Copa do Mundo 2026,Cabo Verde x Arabia,Ambos Marcam Nao,BTS,1.95,8,green,15.6,7.6
-2026-06-26,Copa do Mundo 2026,Cabo Verde x Arabia,Finalizacoes no gol +8.5,Finalizacoes,1.91,8,red,0.0,-8
+2026-06-26,Copa do Mundo 2026,Cabo Verde x Arabia,Finalizacoes no gol +8.5,Finalizacoes,1.91,8,red,0,-8
 2026-06-26,Copa do Mundo 2026,Cabo Verde x Arabia,Empate,Bingo,3.3,2,green,6.6,4.6
-2026-06-26,Copa do Mundo 2026,NZ x Belgica,Belgica Win to Nil,Defesa,1.83,12,red,0.0,-12
+2026-06-26,Copa do Mundo 2026,NZ x Belgica,Belgica Win to Nil,Defesa,1.83,12,red,0,-12
 2026-06-26,Copa do Mundo 2026,NZ x Belgica,Escanteios +9.5,Escanteios,1.72,10,green,17.2,7.2
-2026-06-26,Copa do Mundo 2026,NZ x Belgica,Under 3.5,Gols total,1.8,8,red,0.0,-8
-2026-06-26,Copa do Mundo 2026,NZ x Belgica,Ambos Marcam Nao,BTS,1.7,8,red,0.0,-8
-2026-06-26,Copa do Mundo 2026,NZ x Belgica,Bingo Bet Builder,Bingo,2.5,2,green,5.0,3.0
-2026-06-26,Copa do Mundo 2026,Egito x Ira,Egito Empate Anula,Resultado,1.53,12,refund,12,0.0
-2026-06-26,Copa do Mundo 2026,Egito x Ira,Ambos Marcam Nao,BTS,1.67,10,red,0.0,-10
+2026-06-26,Copa do Mundo 2026,NZ x Belgica,Under 3.5,Gols total,1.8,8,red,0,-8
+2026-06-26,Copa do Mundo 2026,NZ x Belgica,Ambos Marcam Nao,BTS,1.7,8,red,0,-8
+2026-06-26,Copa do Mundo 2026,NZ x Belgica,Bingo Bet Builder,Bingo,2.5,2,green,5,3
+2026-06-26,Copa do Mundo 2026,Egito x Ira,Egito Empate Anula,Resultado,1.53,12,refund,12,0
+2026-06-26,Copa do Mundo 2026,Egito x Ira,Ambos Marcam Nao,BTS,1.67,10,red,0,-10
 2026-06-26,Copa do Mundo 2026,Egito x Ira,Escanteios +7 (8+),Escanteios,1.53,8,green,12.24,4.24
-2026-06-26,Copa do Mundo 2026,Egito x Ira,Egito mais chutes ao gol,Finalizacoes,1.83,8,red,0.0,-8
-2026-06-26,Copa do Mundo 2026,Egito x Ira,Bingo Bet Builder,Bingo,6.0,2,red,0.0,-2
+2026-06-26,Copa do Mundo 2026,Egito x Ira,Egito mais chutes ao gol,Finalizacoes,1.83,8,red,0,-8
+2026-06-26,Copa do Mundo 2026,Egito x Ira,Bingo Bet Builder,Bingo,6,2,red,0,-2
 2026-06-27,Copa do Mundo 2026,Panama x Inglaterra,Inglaterra nao sofre gol,Defesa,1.66,12,green,19.92,7.92
-2026-06-27,Copa do Mundo 2026,Panama x Inglaterra,Escanteios +9 (10+),Escanteios,1.8,10,green,18.0,8.0
+2026-06-27,Copa do Mundo 2026,Panama x Inglaterra,Escanteios +9 (10+),Escanteios,1.8,10,green,18,8
 2026-06-27,Copa do Mundo 2026,Panama x Inglaterra,Under 3.5,Gols total,1.72,8,green,13.76,5.76
-2026-06-27,Copa do Mundo 2026,Panama x Inglaterra,Inglaterra vence 1o tempo,1a metade,1.5,8,red,0.0,-8
-2026-06-27,Copa do Mundo 2026,Panama x Inglaterra,Bingo Bet Builder,Bingo,11.0,2,red,0.0,-2
-2026-06-27,Copa do Mundo 2026,Croacia x Gana,Under 2.5,Gols total,1.62,21,red,0.0,-21
+2026-06-27,Copa do Mundo 2026,Panama x Inglaterra,Inglaterra vence 1o tempo,1a metade,1.5,8,red,0,-8
+2026-06-27,Copa do Mundo 2026,Panama x Inglaterra,Bingo Bet Builder,Bingo,11,2,red,0,-2
+2026-06-27,Copa do Mundo 2026,Croacia x Gana,Under 2.5,Gols total,1.62,21,red,0,-21
 2026-06-27,Copa do Mundo 2026,Croacia x Gana,Croacia vence,Resultado,1.75,18,green,31.5,13.5
-2026-06-27,Copa do Mundo 2026,Croacia x Gana,Escanteios +8 (9+),Escanteios,1.73,14,red,0.0,-14
-2026-06-27,Copa do Mundo 2026,Croacia x Gana,Mais 2.5 cartoes,Cartoes,1.67,14,red,0.0,-14
-2026-06-27,Copa do Mundo 2026,Croacia x Gana,Bingo Bet Builder,Bingo,7.0,3,red,0.0,-3
+2026-06-27,Copa do Mundo 2026,Croacia x Gana,Escanteios +8 (9+),Escanteios,1.73,14,red,0,-14
+2026-06-27,Copa do Mundo 2026,Croacia x Gana,Mais 2.5 cartoes,Cartoes,1.67,14,red,0,-14
+2026-06-27,Copa do Mundo 2026,Croacia x Gana,Bingo Bet Builder,Bingo,7,3,red,0,-3
 2026-06-27,Copa do Mundo 2026,RD Congo x Uzbequistao,Congo vence,Resultado,1.66,21,green,34.86,13.86
-2026-06-27,Copa do Mundo 2026,RD Congo x Uzbequistao,Congo mais chutes ao gol,Finalizacoes,1.5,18,green,27.0,9.0
-2026-06-27,Copa do Mundo 2026,RD Congo x Uzbequistao,Congo nao sofre gol,Defesa,1.91,14,red,0.0,-14
+2026-06-27,Copa do Mundo 2026,RD Congo x Uzbequistao,Congo mais chutes ao gol,Finalizacoes,1.5,18,green,27,9
+2026-06-27,Copa do Mundo 2026,RD Congo x Uzbequistao,Congo nao sofre gol,Defesa,1.91,14,red,0,-14
 2026-06-27,Copa do Mundo 2026,RD Congo x Uzbequistao,Congo marca 2+ gols,Gols por time,1.9,14,green,26.6,12.6
-2026-06-27,Copa do Mundo 2026,RD Congo x Uzbequistao,Bingo Bet Builder,Bingo,17.0,3,red,0.0,-3
-2026-06-27,Copa do Mundo 2026,Colombia x Portugal,Portugal vence ao menos um tempo,1a/2a metade,1.5,21,red,0.0,-21
-2026-06-27,Copa do Mundo 2026,Colombia x Portugal,Ambos Marcam Sim,BTS,1.66,18,red,0.0,-18
-2026-06-27,Copa do Mundo 2026,Colombia x Portugal,Portugal marca 2+ gols,Gols por time,1.83,14,red,0.0,-14
-2026-06-27,Copa do Mundo 2026,Colombia x Portugal,Colombia +1.5 cartoes,Cartoes,1.72,14,red,0.0,-14
-2026-06-27,Copa do Mundo 2026,Colombia x Portugal,Bingo Bet Builder,Bingo,8.5,3,red,0.0,-3
-2026-06-27,Copa do Mundo 2026,Jordania x Argentina,Argentina nao sofre gol,Defesa,1.57,21,red,0.0,-21
-2026-06-27,Copa do Mundo 2026,Jordania x Argentina,Argentina vence 1o tempo,1a metade,1.5,18,green,27.0,9.0
+2026-06-27,Copa do Mundo 2026,RD Congo x Uzbequistao,Bingo Bet Builder,Bingo,17,3,red,0,-3
+2026-06-27,Copa do Mundo 2026,Colombia x Portugal,Portugal vence ao menos um tempo,1a/2a metade,1.5,21,red,0,-21
+2026-06-27,Copa do Mundo 2026,Colombia x Portugal,Ambos Marcam Sim,BTS,1.66,18,red,0,-18
+2026-06-27,Copa do Mundo 2026,Colombia x Portugal,Portugal marca 2+ gols,Gols por time,1.83,14,red,0,-14
+2026-06-27,Copa do Mundo 2026,Colombia x Portugal,Colombia +1.5 cartoes,Cartoes,1.72,14,red,0,-14
+2026-06-27,Copa do Mundo 2026,Colombia x Portugal,Bingo Bet Builder,Bingo,8.5,3,red,0,-3
+2026-06-27,Copa do Mundo 2026,Jordania x Argentina,Argentina nao sofre gol,Defesa,1.57,21,red,0,-21
+2026-06-27,Copa do Mundo 2026,Jordania x Argentina,Argentina vence 1o tempo,1a metade,1.5,18,green,27,9
 2026-06-27,Copa do Mundo 2026,Jordania x Argentina,Over 2.5,Gols total,1.53,14,green,21.42,7.42
-2026-06-27,Copa do Mundo 2026,Jordania x Argentina,Escanteios 9+,Escanteios,1.91,14,red,0.0,-14
-2026-06-27,Copa do Mundo 2026,Jordania x Argentina,Bingo Bet Builder,Bingo,4.5,3,red,0.0,-3
-2026-06-27,Copa do Mundo 2026,Argelia x Austria,Austria Empate Anula,Resultado,1.73,21,refund,21,0.0
-2026-06-27,Copa do Mundo 2026,Argelia x Austria,Ambos Marcam Nao,BTS,1.62,18,red,0.0,-18
+2026-06-27,Copa do Mundo 2026,Jordania x Argentina,Escanteios 9+,Escanteios,1.91,14,red,0,-14
+2026-06-27,Copa do Mundo 2026,Jordania x Argentina,Bingo Bet Builder,Bingo,4.5,3,red,0,-3
+2026-06-27,Copa do Mundo 2026,Argelia x Austria,Austria Empate Anula,Resultado,1.73,21,refund,21,0
+2026-06-27,Copa do Mundo 2026,Argelia x Austria,Ambos Marcam Nao,BTS,1.62,18,red,0,-18
 2026-06-27,Copa do Mundo 2026,Argelia x Austria,Finalizacoes no gol 7+,Finalizacoes,1.62,14,green,22.68,8.68
 2026-06-27,Copa do Mundo 2026,Argelia x Austria,1o Tempo Empate,1a metade,1.8,14,green,25.2,11.2
-2026-06-27,Copa do Mundo 2026,Argelia x Austria,Bingo Bet Builder,Bingo,8.0,3,red,0.0,-3
+2026-06-27,Copa do Mundo 2026,Argelia x Austria,Bingo Bet Builder,Bingo,8,3,red,0,-3
 2026-06-28,Copa do Mundo 2026,Africa do Sul x Canada,Under 2.5,Gols total,1.73,21,green,36.33,15.33
 2026-06-28,Copa do Mundo 2026,Africa do Sul x Canada,Canada vence,Resultado,1.67,18,green,30.06,12.06
-2026-06-28,Copa do Mundo 2026,Africa do Sul x Canada,Escanteios 9+,Escanteios,1.5,14,red,0.0,-14
-2026-06-28,Copa do Mundo 2026,Africa do Sul x Canada,Mais 3.5 cartoes,Cartoes,1.83,14,red,0.0,-14
-2026-06-28,Copa do Mundo 2026,Africa do Sul x Canada,Bingo Bet Builder,Bingo,6.0,3,red,0.0,-3
-2026-06-28,Copa do Mundo 2026,Africa do Sul x Canada,Gol +80min (ao vivo),Ao vivo,2.5,50,green,125.0,75.0
-2026-06-29,Copa do Mundo 2026,Brasil x Japao,Brasil mais chutes ao gol,Finalizacoes,1.5,10,green,15.0,5.0
+2026-06-28,Copa do Mundo 2026,Africa do Sul x Canada,Escanteios 9+,Escanteios,1.5,14,red,0,-14
+2026-06-28,Copa do Mundo 2026,Africa do Sul x Canada,Mais 3.5 cartoes,Cartoes,1.83,14,red,0,-14
+2026-06-28,Copa do Mundo 2026,Africa do Sul x Canada,Bingo Bet Builder,Bingo,6,3,red,0,-3
+2026-06-28,Copa do Mundo 2026,Africa do Sul x Canada,Gol +80min (ao vivo),Ao vivo,2.5,50,green,125,75
+2026-06-29,Copa do Mundo 2026,Brasil x Japao,Brasil mais chutes ao gol,Finalizacoes,1.5,10,green,15,5
 2026-06-29,Copa do Mundo 2026,Brasil x Japao,Brasil vence,Resultado,1.67,9,green,15.03,6.03
 2026-06-29,Copa do Mundo 2026,Brasil x Japao,Ambos Marcam Nao,BTS,1.91,8,cashout,3.12,-4.88
 2026-06-29,Copa do Mundo 2026,Brasil x Japao,Brasil marca 2+ gols,Gols por time,1.8,7,green,12.6,5.6
 2026-06-29,Copa do Mundo 2026,Brasil x Japao,2 ou 3 gols,Faixa de gols,1.95,6,green,11.7,5.7
 2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Escanteios +8 (9+),Escanteios,1.67,10,green,16.7,6.7
-2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Alemanha vence 1o tempo,1a metade,1.73,9,red,0.0,-9
-2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Ambos Marcam Nao,BTS,1.7,8,red,0.0,-8
-2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Over 2.5,Gols total,1.67,7,red,0.0,-7
+2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Alemanha vence 1o tempo,1a metade,1.73,9,red,0,-9
+2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Ambos Marcam Nao,BTS,1.7,8,red,0,-8
+2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Over 2.5,Gols total,1.67,7,red,0,-7
 2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Mais 2.5 cartoes,Cartoes,1.57,6,green,9.42,3.42
 2026-06-29,Copa do Mundo 2026,Holanda x Marrocos,Under 2.5,Gols total,1.66,10,green,16.6,6.6
-2026-06-29,Copa do Mundo 2026,Holanda x Marrocos,Holanda Empate Anula,Resultado,1.6,9,refund,9.0,0
-2026-06-29,Copa do Mundo 2026,Holanda x Marrocos,Menos 9.5 escanteios,Escanteios,1.61,8,red,0.0,-8
-2026-06-29,Copa do Mundo 2026,Holanda x Marrocos,Ambos Marcam Nao,BTS,1.9,7,red,0.0,-7
-2026-06-29,Copa do Mundo 2026,Holanda x Marrocos,2 ou 3 gols,Faixa de gols,2.0,6,green,12.0,6.0
+2026-06-29,Copa do Mundo 2026,Holanda x Marrocos,Holanda Empate Anula,Resultado,1.6,9,refund,9,0
+2026-06-29,Copa do Mundo 2026,Holanda x Marrocos,Menos 9.5 escanteios,Escanteios,1.61,8,red,0,-8
+2026-06-29,Copa do Mundo 2026,Holanda x Marrocos,Ambos Marcam Nao,BTS,1.9,7,red,0,-7
+2026-06-29,Copa do Mundo 2026,Holanda x Marrocos,2 ou 3 gols,Faixa de gols,2,6,green,12,6
 2026-06-29,Copa do Mundo 2026,Brasil x Japao,Brasil Mais de 1.5 (extra),Gols por time,1.72,50,green,86.37,36.37
-2026-06-29,Copa do Mundo 2026,Brasil x Japao,Criar Aposta Endrick+Brasil vence (extra),Combo,7.50,20,red,0.0,-20
-2026-06-29,Copa do Mundo 2026,Brasil x Japao,Mais de 4.5 cartoes (extra),Cartoes,2.00,30,green,60.0,30.0
-2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Mais 5.5 escanteios 1T (ao vivo),Ao vivo,2.20,30,green,66.0,36.0
-2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Mais 6 escanteios 1T (ao vivo),Ao vivo,8.0,5,green,40.0,35.0
-2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Mais 1.5 escanteios 1T-prorrog (ao vivo),Ao vivo,1.80,50,green,90.0,40.0
+2026-06-29,Copa do Mundo 2026,Brasil x Japao,Criar Aposta Endrick+Brasil vence (extra),Combo,7.5,20,red,0,-20
+2026-06-29,Copa do Mundo 2026,Brasil x Japao,Mais de 4.5 cartoes (extra),Cartoes,2,30,green,60,30
+2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Mais 5.5 escanteios 1T (ao vivo),Ao vivo,2.2,30,green,66,36
+2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Mais 6 escanteios 1T (ao vivo),Ao vivo,8,5,green,40,35
+2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Mais 1.5 escanteios 1T-prorrog (ao vivo),Ao vivo,1.8,50,green,90,40
 2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Mais 3 escanteios prorrog (ao vivo),Ao vivo,1.833,50,green,91.65,41.65
-2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Mais 4.5 escanteios prorrog (ao vivo),Ao vivo,1.82,50,green,91.0,41.0
-2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Mais 5 escanteios prorrog (ao vivo),Ao vivo,1.50,50,green,75.0,25.0
-2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Mais 6 escanteios prorrog (ao vivo),Ao vivo,1.80,50,green,90.0,40.0
-2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,"Mais 7 escanteios prorrog (ao vivo, cashout)",Ao vivo,5.5,20,cashout,50.0,30.0
-2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,"Mais 8 escanteios prorrog (ao vivo, cashout)",Ao vivo,8.0,50,cashout,30.67,-19.33
-2026-06-29,Copa do Mundo 2026,Holanda x Marrocos,Marrocos Handicap Asiatico +0.5 (extra),Handicap,1.60,50,green,80.0,30.0
-2026-06-30,Copa do Mundo 2026,Costa do Marfim x Noruega,Noruega mais chutes ao gol,Finalizacoes,1.50,11,red,0.0,-11
-2026-06-30,Copa do Mundo 2026,Costa do Marfim x Noruega,Costa do Marfim ou Empate,Resultado,1.67,10,red,0.0,-10
+2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Mais 4.5 escanteios prorrog (ao vivo),Ao vivo,1.82,50,green,91,41
+2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Mais 5 escanteios prorrog (ao vivo),Ao vivo,1.5,50,green,75,25
+2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,Mais 6 escanteios prorrog (ao vivo),Ao vivo,1.8,50,green,90,40
+2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,"Mais 7 escanteios prorrog (ao vivo, cashout)",Ao vivo,5.5,20,cashout,50,30
+2026-06-29,Copa do Mundo 2026,Alemanha x Paraguai,"Mais 8 escanteios prorrog (ao vivo, cashout)",Ao vivo,8,50,cashout,30.67,-19.33
+2026-06-29,Copa do Mundo 2026,Holanda x Marrocos,Marrocos Handicap Asiatico +0.5 (extra),Handicap,1.6,50,green,80,30
+2026-06-30,Copa do Mundo 2026,Costa do Marfim x Noruega,Noruega mais chutes ao gol,Finalizacoes,1.5,11,red,0,-11
+2026-06-30,Copa do Mundo 2026,Costa do Marfim x Noruega,Costa do Marfim ou Empate,Resultado,1.67,10,red,0,-10
 2026-06-30,Copa do Mundo 2026,Costa do Marfim x Noruega,Noruega vence ao menos um tempo,Tempos,1.57,9,green,14.13,5.13
-2026-06-30,Copa do Mundo 2026,Costa do Marfim x Noruega,Ambos Marcam Sim,BTS,1.70,8,green,13.6,5.6
+2026-06-30,Copa do Mundo 2026,Costa do Marfim x Noruega,Ambos Marcam Sim,BTS,1.7,8,green,13.6,5.6
 2026-06-30,Copa do Mundo 2026,Costa do Marfim x Noruega,Over 2.5,Gols total,1.91,7,green,13.37,6.37
 2026-06-30,Copa do Mundo 2026,Franca x Suecia,Over 2.5,Gols total,1.44,11,green,15.89,4.89
 2026-06-30,Copa do Mundo 2026,Franca x Suecia,Franca vence o 1o tempo,1a metade,1.67,10,green,16.67,6.67
-2026-06-30,Copa do Mundo 2026,Franca x Suecia,Finalizacoes no gol +8.5,Finalizacoes,1.40,9,green,12.60,3.60
-2026-06-30,Copa do Mundo 2026,Franca x Suecia,Franca vence por 2+ (Handicap -1),Handicap,1.80,8,green,14.40,6.40
-2026-06-30,Copa do Mundo 2026,Franca x Suecia,Franca marca 3+ gols,Gols por time,2.00,7,green,14.00,7.00
-2026-06-30,Copa do Mundo 2026,Mexico x Equador,Mexico Empate Anula (DNB),Resultado,1.50,11,green,16.5,5.5
+2026-06-30,Copa do Mundo 2026,Franca x Suecia,Finalizacoes no gol +8.5,Finalizacoes,1.4,9,green,12.6,3.6
+2026-06-30,Copa do Mundo 2026,Franca x Suecia,Franca vence por 2+ (Handicap -1),Handicap,1.8,8,green,14.4,6.4
+2026-06-30,Copa do Mundo 2026,Franca x Suecia,Franca marca 3+ gols,Gols por time,2,7,green,14,7
+2026-06-30,Copa do Mundo 2026,Mexico x Equador,Mexico Empate Anula (DNB),Resultado,1.5,11,green,16.5,5.5
 2026-06-30,Copa do Mundo 2026,Mexico x Equador,Ambos Marcam Nao,BTS,1.57,10,green,15.7,5.7
 2026-06-30,Copa do Mundo 2026,Mexico x Equador,Mexico mais chutes ao gol,Finalizacoes,1.67,9,green,15.03,6.03
 2026-06-30,Copa do Mundo 2026,Mexico x Equador,Mexico vence ao menos um tempo,Tempos,1.73,8,green,13.84,5.84
-2026-06-30,Copa do Mundo 2026,Mexico x Equador,1o Tempo Empate,1a metade,1.91,7,red,0.0,-7
+2026-06-30,Copa do Mundo 2026,Mexico x Equador,1o Tempo Empate,1a metade,1.91,7,red,0,-7
 2026-06-30,Copa do Mundo 2026,Costa do Marfim x Noruega,Diomande + Agbadou 2+ desarmes (extra),Props jogador,1.83,50,green,91.67,41.67
-2026-06-30,Copa do Mundo 2026,Costa do Marfim x Noruega,Diallo + Haaland 2+ chutes ao gol (extra),Props jogador,2.5,20,green,50.0,30.0
+2026-06-30,Copa do Mundo 2026,Costa do Marfim x Noruega,Diallo + Haaland 2+ chutes ao gol (extra),Props jogador,2.5,20,green,50,30
 2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra marca 2+ gols,Gols por time,1.53,13,green,19.89,6.89
-2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence sem sofrer (Win to Nil),Resultado,1.73,11,red,0.00,-11.00
-2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence o 1o tempo,1a metade,1.73,10,red,0.00,-10.00
-2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence por 2+ (Handicap -1),Handicap,1.83,9,red,0.00,-9.00
-2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Over 2.5,Gols total,2.00,7,green,14.00,7.00
-2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Belgica Empate Anula (DNB),Resultado,1.50,13,green,19.50,6.50
-2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Under 2.5,Gols total,1.73,11,red,0.00,-11.00
-2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Ambos Marcam Sim,BTS,1.80,10,green,18.00,8.00
+2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence sem sofrer (Win to Nil),Resultado,1.73,11,red,0,-11
+2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence o 1o tempo,1a metade,1.73,10,red,0,-10
+2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Inglaterra vence por 2+ (Handicap -1),Handicap,1.83,9,red,0,-9
+2026-07-01,Copa do Mundo 2026,Inglaterra x Congo,Over 2.5,Gols total,2,7,green,14,7
+2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Belgica Empate Anula (DNB),Resultado,1.5,13,green,19.5,6.5
+2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Under 2.5,Gols total,1.73,11,red,0,-11
+2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Ambos Marcam Sim,BTS,1.8,10,green,18,8
 2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Belgica vence ao menos um tempo,Tempos,1.67,9,green,15.03,6.03
 2026-07-01,Copa do Mundo 2026,Belgica x Senegal,Finalizacoes no gol +7.5,Finalizacoes,1.83,7,green,12.81,5.81
-2026-07-01,Copa do Mundo 2026,EUA x Bosnia,EUA marca 2+ gols,Gols por time,1.50,13,green,19.50,6.50
-2026-07-01,Copa do Mundo 2026,EUA x Bosnia,EUA vence por 2+ (Handicap Asiatico -1),Handicap,1.60,11,green,17.60,6.60
-2026-07-01,Copa do Mundo 2026,EUA x Bosnia,Over 2.5,Gols total,1.73,10,red,0.00,-10.00
+2026-07-01,Copa do Mundo 2026,EUA x Bosnia,EUA marca 2+ gols,Gols por time,1.5,13,green,19.5,6.5
+2026-07-01,Copa do Mundo 2026,EUA x Bosnia,EUA vence por 2+ (Handicap Asiatico -1),Handicap,1.6,11,green,17.6,6.6
+2026-07-01,Copa do Mundo 2026,EUA x Bosnia,Over 2.5,Gols total,1.73,10,red,0,-10
 2026-07-01,Copa do Mundo 2026,EUA x Bosnia,EUA vence o 1o tempo,1a metade,1.83,9,green,16.47,7.47
-2026-07-01,Copa do Mundo 2026,EUA x Bosnia,Ambos Marcam Sim,BTS,1.95,7,red,0.00,-7.00
-2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Portugal vence,Resultado,1.67,20,green,33.40,13.40
-2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Ambos Marcam Sim,BTS,1.70,20,green,34.00,14.00
-2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Over 2.5,Gols total,1.73,20,green,34.60,14.60
-2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Croacia ou Empate no 1o tempo (DC 1T),1a metade,1.62,20,green,32.40,12.40
-2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Portugal marca 2+ gols,Gols por time,1.67,20,green,33.40,13.40
-2026-07-02,Copa do Mundo 2026,Suica x Argelia,Argelia marca,Gols por time,1.53,16,red,0.00,-16.00
-2026-07-02,Copa do Mundo 2026,Suica x Argelia,Suica handicap asiatico -0.25,Handicap,1.68,15,green,25.20,10.20
+2026-07-01,Copa do Mundo 2026,EUA x Bosnia,Ambos Marcam Sim,BTS,1.95,7,red,0,-7
+2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Portugal vence,Resultado,1.67,20,green,33.4,13.4
+2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Ambos Marcam Sim,BTS,1.7,20,green,34,14
+2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Over 2.5,Gols total,1.73,20,green,34.6,14.6
+2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Croacia ou Empate no 1o tempo (DC 1T),1a metade,1.62,20,green,32.4,12.4
+2026-07-02,Copa do Mundo 2026,Portugal x Croacia,Portugal marca 2+ gols,Gols por time,1.67,20,green,33.4,13.4
+2026-07-02,Copa do Mundo 2026,Suica x Argelia,Argelia marca,Gols por time,1.53,16,red,0,-16
+2026-07-02,Copa do Mundo 2026,Suica x Argelia,Suica handicap asiatico -0.25,Handicap,1.68,15,green,25.2,10.2
 2026-07-02,Copa do Mundo 2026,Suica x Argelia,Nao ha empate no 1o tempo (DC 1T),1a metade,1.67,13,green,21.71,8.71
 2026-07-02,Copa do Mundo 2026,Suica x Argelia,Suica vence,Resultado,1.95,11,green,21.45,10.45
-2026-07-02,Copa do Mundo 2026,Suica x Argelia,Ambos Marcam Sim,BTS,1.95,10,red,0.00,-10.00
-2026-07-03,Copa do Mundo 2026,Australia x Egito,Ambos Marcam Nao,BTS,1.62,16,red,0.00,-16.00
-2026-07-03,Copa do Mundo 2026,Australia x Egito,Egito Empate Anula (DNB),Handicap,1.55,15,refund,15.00,0.00
-2026-07-03,Copa do Mundo 2026,Australia x Egito,Empate no 1o tempo,1a metade,1.91,13,red,0.00,-13.00
+2026-07-02,Copa do Mundo 2026,Suica x Argelia,Ambos Marcam Sim,BTS,1.95,10,red,0,-10
+2026-07-03,Copa do Mundo 2026,Australia x Egito,Ambos Marcam Nao,BTS,1.62,16,red,0,-16
+2026-07-03,Copa do Mundo 2026,Australia x Egito,Egito Empate Anula (DNB),Handicap,1.55,15,refund,15,0
+2026-07-03,Copa do Mundo 2026,Australia x Egito,Empate no 1o tempo,1a metade,1.91,13,red,0,-13
 2026-07-03,Copa do Mundo 2026,Australia x Egito,Australia ou Empate (Dupla Chance),Resultado,1.53,11,green,16.83,5.83
-2026-07-03,Copa do Mundo 2026,Australia x Egito,Under 2.5,Gols total,1.40,10,green,14.00,4.00
-2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Cabo Verde nao marca,Gols por time,1.44,16,red,0.00,-16.00
+2026-07-03,Copa do Mundo 2026,Australia x Egito,Under 2.5,Gols total,1.4,10,green,14,4
+2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Cabo Verde nao marca,Gols por time,1.44,16,red,0,-16
 2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Under 3.5,Gols total,1.53,15,green,22.95,7.95
-2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Argentina vence o 1o tempo,1a metade,1.50,13,green,19.50,6.50
-2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Argentina vence por 2+ (Handicap -1),Handicap,1.50,11,red,0.00,-11.00
-2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Argentina marca nos dois tempos,Tempos,1.73,10,red,0.00,-10.00
-2026-07-03,Copa do Mundo 2026,Colombia x Gana,Colombia handicap asiatico -0.75,Handicap,1.50,16,green,24.00,8.00
+2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Argentina vence o 1o tempo,1a metade,1.5,13,green,19.5,6.5
+2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Argentina vence por 2+ (Handicap -1),Handicap,1.5,11,red,0,-11
+2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Argentina marca nos dois tempos,Tempos,1.73,10,red,0,-10
+2026-07-03,Copa do Mundo 2026,Colombia x Gana,Colombia handicap asiatico -0.75,Handicap,1.5,16,green,24,8
 2026-07-03,Copa do Mundo 2026,Colombia x Gana,Under 2.5,Gols total,1.73,15,green,25.95,10.95
 2026-07-03,Copa do Mundo 2026,Colombia x Gana,Colombia vence o 1o tempo,1a metade,1.91,13,green,24.83,11.83
 2026-07-03,Copa do Mundo 2026,Colombia x Gana,Gana nao marca,Gols por time,1.67,11,green,18.37,7.37
-2026-07-03,Copa do Mundo 2026,Colombia x Gana,Ambos Marcam Nao,BTS,1.53,10,green,15.30,5.30
-2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Escanteios ao vivo (prorrogacao),Ao vivo,,,green,,196.97
+2026-07-03,Copa do Mundo 2026,Colombia x Gana,Ambos Marcam Nao,BTS,1.53,10,green,15.3,5.3
+2026-07-03,Copa do Mundo 2026,Argentina x Cabo Verde,Escanteios ao vivo (prorrogacao),Ao vivo,,0,green,,196.97
 2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Marrocos vence,Resultado,1.85,15,green,27.75,12.75
-2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Canada marca,Gols por time,1.62,15,red,0.00,-15.00
-2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Canada +0.5 / +1.0 (asiatico),Handicap,1.70,15,red,0.00,-15.00
-2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Ambos Marcam Sim (0.5 stake),BTS,2.00,7.50,red,0.00,-7.50
-2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Nao ha empate no 1o tempo (DC 1T),1a metade,1.67,15,red,0.00,-15.00
+2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Canada marca,Gols por time,1.62,15,red,0,-15
+2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Canada +0.5 / +1.0 (asiatico),Handicap,1.7,15,red,0,-15
+2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Ambos Marcam Sim (0.5 stake),BTS,2,7.5,red,0,-7.5
+2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Nao ha empate no 1o tempo (DC 1T),1a metade,1.67,15,red,0,-15
 2026-07-04,Copa do Mundo 2026,Paraguai x Franca,Paraguai nao marca,Gols por time,1.53,15,green,22.95,7.95
-2026-07-04,Copa do Mundo 2026,Paraguai x Franca,Franca vence o 1o tempo,1a metade,1.57,15,red,0.00,-15.00
-2026-07-04,Copa do Mundo 2026,Paraguai x Franca,Over 2.5,Gols total,1.73,15,red,0.00,-15.00
-2026-07-04,Copa do Mundo 2026,Paraguai x Franca,Franca marca nos dois tempos,Tempos,1.83,15,red,0.00,-15.00
-2026-07-04,Copa do Mundo 2026,Paraguai x Franca,Franca -2.0 (asiatico) (0.5 stake),Handicap,2.08,7.50,red,0.00,-7.50
-2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Marrocos 0 / -0.5 (asiatico) (extra),Handicap,1.47,22.50,green,33.19,10.69
-2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Mais de 0.5 cartao vermelho (extra),Cartoes,,7.50,red,0.00,-7.50
-2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Mais de 1.5 cartao vermelho (extra),Cartoes,,7.50,red,0.00,-7.50
-2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Canada mais de 8.5 escanteios (extra),Escanteios,1.50,15,green,22.50,7.50
-2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Brasil marca 2+ gols [Betano],Gols por time,1.75,15,red,0.00,-15.00
+2026-07-04,Copa do Mundo 2026,Paraguai x Franca,Franca vence o 1o tempo,1a metade,1.57,15,red,0,-15
+2026-07-04,Copa do Mundo 2026,Paraguai x Franca,Over 2.5,Gols total,1.73,15,red,0,-15
+2026-07-04,Copa do Mundo 2026,Paraguai x Franca,Franca marca nos dois tempos,Tempos,1.83,15,red,0,-15
+2026-07-04,Copa do Mundo 2026,Paraguai x Franca,Franca -2.0 (asiatico) (0.5 stake),Handicap,2.08,7.5,red,0,-7.5
+2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Marrocos 0 / -0.5 (asiatico) (extra),Handicap,1.47,22.5,green,33.19,10.69
+2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Mais de 0.5 cartao vermelho (extra),Cartoes,,7.5,red,0,-7.5
+2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Mais de 1.5 cartao vermelho (extra),Cartoes,,7.5,red,0,-7.5
+2026-07-04,Copa do Mundo 2026,Canada x Marrocos,Canada mais de 8.5 escanteios (extra),Escanteios,1.5,15,green,22.5,7.5
+2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Brasil marca 2+ gols [Betano],Gols por time,1.75,15,red,0,-15
 2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Over 2.5 [Betano],Gols total,1.75,15,green,26.25,11.25
 2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Ambos Marcam Sim [Bet365],BTS,1.67,15,green,25.05,10.05
-2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Brasil vence [Betano],Resultado,1.90,15,red,0.00,-15.00
-2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Brasil marca no 1o tempo [Betano],1a metade,1.75,15,red,0.00,-15.00
-2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Under 2.5 [Betano],Gols total,1.60,15,red,0.00,-15.00
-2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Ambos Marcam Nao [Betano],BTS,1.78,15,red,0.00,-15.00
-2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Inglaterra Empate Anula DNB [Betano],Handicap,1.70,15,green,25.50,10.50
-2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Mexico ou Empate (Dupla Chance) [Betano],Resultado,1.57,15,red,0.00,-15.00
-2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Empate no 1o tempo [Bet365] (0.5 stake),1a metade,2.00,7.50,red,0.00,-7.50
-2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Over 2.5 [Betano],Gols total,1.80,22,red,0.00,-22.00
-2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Ambos Marcam Sim [1xBet],BTS,1.69,22,red,0.00,-22.00
-2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Portugal ou Empate (Dupla Chance) [1xBet],Resultado,1.92,22,red,0.00,-22.00
-2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Espanha Empate Anula DNB [1xBet],Handicap,1.45,22,green,31.90,9.90
-2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Empate no 1o tempo [Bet365] (0.25 stake),1a metade,2.30,5.50,green,12.65,7.15
-2026-07-06,Copa do Mundo 2026,EUA x Belgica,Ambos Marcam Sim [1xBet],BTS,1.55,22,green,34.10,12.10
-2026-07-06,Copa do Mundo 2026,EUA x Belgica,Over 2.5 [Betano],Gols total,1.70,22,green,37.40,15.40
-2026-07-06,Copa do Mundo 2026,EUA x Belgica,EUA +0.5 (asiatico) [Betano],Handicap,1.53,22,red,0.00,-22.00
+2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Brasil vence [Betano],Resultado,1.9,15,red,0,-15
+2026-07-05,Copa do Mundo 2026,Brasil x Noruega,Brasil marca no 1o tempo [Betano],1a metade,1.75,15,red,0,-15
+2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Under 2.5 [Betano],Gols total,1.6,15,red,0,-15
+2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Ambos Marcam Nao [Betano],BTS,1.78,15,red,0,-15
+2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Inglaterra Empate Anula DNB [Betano],Handicap,1.7,15,green,25.5,10.5
+2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Mexico ou Empate (Dupla Chance) [Betano],Resultado,1.57,15,red,0,-15
+2026-07-05,Copa do Mundo 2026,Mexico x Inglaterra,Empate no 1o tempo [Bet365] (0.5 stake),1a metade,2,7.5,red,0,-7.5
+2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Over 2.5 [Betano],Gols total,1.8,22,red,0,-22
+2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Ambos Marcam Sim [1xBet],BTS,1.69,22,red,0,-22
+2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Portugal ou Empate (Dupla Chance) [1xBet],Resultado,1.92,22,red,0,-22
+2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Espanha Empate Anula DNB [1xBet],Handicap,1.45,22,green,31.9,9.9
+2026-07-06,Copa do Mundo 2026,Portugal x Espanha,Empate no 1o tempo [Bet365] (0.25 stake),1a metade,2.3,5.5,green,12.65,7.15
+2026-07-06,Copa do Mundo 2026,EUA x Belgica,Ambos Marcam Sim [1xBet],BTS,1.55,22,green,34.1,12.1
+2026-07-06,Copa do Mundo 2026,EUA x Belgica,Over 2.5 [Betano],Gols total,1.7,22,green,37.4,15.4
+2026-07-06,Copa do Mundo 2026,EUA x Belgica,EUA +0.5 (asiatico) [Betano],Handicap,1.53,22,red,0,-22
 2026-07-06,Copa do Mundo 2026,EUA x Belgica,Empate ou Belgica (Dupla Chance) [1xBet],Resultado,1.52,22,green,33.44,11.44
-2026-07-06,Copa do Mundo 2026,EUA x Belgica,EUA marca 2+ gols [1xBet] (0.5 stake),Gols por time,2.14,11,red,0.00,-11.00
-2026-07-07,Copa do Mundo 2026,Argentina x Egito,Ambos Marcam Nao [Betano],BTS,1.57,22,red,0.00,-22.00
-2026-07-07,Copa do Mundo 2026,Argentina x Egito,Argentina -0.75 (asiatico) [Betano],Handicap,1.50,22,green,33.00,11.00
-2026-07-07,Copa do Mundo 2026,Argentina x Egito,Argentina vence o 1o tempo [Betano],1a metade,1.95,22,red,0.00,-22.00
-2026-07-07,Copa do Mundo 2026,Argentina x Egito,Under 2.5 [Betano],Gols total,1.85,22,red,0.00,-22.00
+2026-07-06,Copa do Mundo 2026,EUA x Belgica,EUA marca 2+ gols [1xBet] (0.5 stake),Gols por time,2.14,11,red,0,-11
+2026-07-07,Copa do Mundo 2026,Argentina x Egito,Ambos Marcam Nao [Betano],BTS,1.57,22,red,0,-22
+2026-07-07,Copa do Mundo 2026,Argentina x Egito,Argentina -0.75 (asiatico) [Betano],Handicap,1.5,22,green,33,11
+2026-07-07,Copa do Mundo 2026,Argentina x Egito,Argentina vence o 1o tempo [Betano],1a metade,1.95,22,red,0,-22
+2026-07-07,Copa do Mundo 2026,Argentina x Egito,Under 2.5 [Betano],Gols total,1.85,22,red,0,-22
 2026-07-07,Copa do Mundo 2026,Argentina x Egito,Ambas Marcam ou Over 2.5 [Betano],Combo,1.62,22,green,35.64,13.64
 2026-07-07,Copa do Mundo 2026,Suica x Colombia,Under 2.5 [Betano],Gols total,1.62,22,green,35.64,13.64
-2026-07-07,Copa do Mundo 2026,Suica x Colombia,Colombia Empate Anula DNB [1xBet],Handicap,1.56,22,refund,22.00,0.00
-2026-07-07,Copa do Mundo 2026,Suica x Colombia,Colombia vence [Betano] (0.5 stake),Resultado,2.37,11,red,0.00,-11.00
+2026-07-07,Copa do Mundo 2026,Suica x Colombia,Colombia Empate Anula DNB [1xBet],Handicap,1.56,22,refund,22,0
+2026-07-07,Copa do Mundo 2026,Suica x Colombia,Colombia vence [Betano] (0.5 stake),Resultado,2.37,11,red,0,-11
 2026-07-07,Copa do Mundo 2026,Suica x Colombia,Ambos Marcam Nao [Betano],BTS,1.82,22,green,40.04,18.04
-2026-07-07,Copa do Mundo 2026,Suica x Colombia,Empate no 1o tempo [Bet365] (0.5 stake),1a metade,2.00,11,green,22.00,11.00
-2026-07-07,Atletico-MG (avulso),Atletico-MG (ao vivo),Escanteios ao vivo - canto limite (2 bets),Ao vivo,,,green,,150.50
-2026-09-20,Brasileirao 2026,Flamengo x Bragantino,Flamengo -1 (asiatico) [Betano],Handicap,1.57,10,refund,10.00,0.00
-2026-09-20,Brasileirao 2026,Flamengo x Bragantino,Over 2.5 [Betano],Gols total,1.57,10,green,15.70,5.70
-2026-09-20,Brasileirao 2026,Flamengo x Bragantino,Flamengo vence o 1o tempo [Betano],1a metade,1.85,10,green,18.50,8.50
-2026-09-20,Brasileirao 2026,Flamengo x Bragantino,Flamengo marca 2+ gols [Betano],Gols por time,1.42,10,green,14.20,4.20
-2026-09-20,Brasileirao 2026,Flamengo x Bragantino,Ambos Marcam Nao [Betano] (0.5 stake),BTS,1.98,5,red,0.00,-5.00
-2026-09-20,Serie A Italia 2026,Milan x Lecce,Milan -1.5 (asiatico) [Betano],Handicap,1.78,10,green,17.80,7.80
-2026-09-20,Serie A Italia 2026,Milan x Lecce,Over 2.5 [Betano],Gols total,1.62,10,green,16.20,6.20
-2026-09-20,Serie A Italia 2026,Milan x Lecce,Milan vence o 1o tempo [Betano],1a metade,1.72,10,green,17.20,7.20
-2026-09-20,Serie A Italia 2026,Milan x Lecce,Lecce nao marca [Betano],Gols por time,1.83,10,green,18.30,8.30
-2026-09-20,Serie A Italia 2026,Milan x Lecce,Ambos Marcam Nao [Betano],BTS,1.72,10,green,17.20,7.20
-2026-09-20,Ligue 1 2026,Marseille x PSG,PSG vence [Betano],Resultado,1.50,10,green,15.00,5.00
-2026-09-20,Ligue 1 2026,Marseille x PSG,Ambos Marcam Sim [Betano],BTS,1.50,10,green,15.00,5.00
-2026-09-20,Ligue 1 2026,Marseille x PSG,PSG vence o 1o tempo [Betano],1a metade,1.91,10,red,0.00,-10.00
-2026-09-20,Ligue 1 2026,Marseille x PSG,Over 2.5 [Betano],Gols total,1.38,10,green,13.80,3.80
-2026-09-20,Ligue 1 2026,Marseille x PSG,PSG marca 2+ gols [Betano],Gols por time,1.35,10,green,13.50,3.50
-2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Petrolul vence [Betano],Resultado,1.78,10,green,17.80,7.80
-2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Petrolul marca 2+ gols [Betano],Gols por time,1.91,10,green,19.10,9.10
-2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Under 2.5 [Betano],Gols total,1.82,10,green,18.20,8.20
-2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Petrolul 0/-0.5 (asiatico) [Betano],Handicap,1.57,10,green,15.70,5.70
-2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Ambos Marcam Nao [Betano],BTS,1.87,10,green,18.70,8.70
-2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Under 2.5 [Betano],Gols total,1.50,10,red,0.00,-10.00
-2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Ambos Marcam Nao [Betano],BTS,1.65,10,red,0.00,-10.00
-2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Lanus 0/-0.5 (asiatico) [Betano],Handicap,1.85,10,green,18.50,8.50
-2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Empate no 1o tempo [Betano],1a metade,1.87,10,red,0.00,-10.00
-2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Estudiantes nao marca [Betano] (0.5 stake),Gols por time,2.15,5,red,0.00,-5.00
-2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Under 2.5 [Betano],Gols total,1.62,10,red,0.00,-10.00
-2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Ambos Marcam Nao [Betano],BTS,1.78,10,green,17.80,7.80
-2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Cuiaba 0/-0.5 (asiatico) [Betano],Handicap,1.75,10,green,17.50,7.50
-2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Empate no 1o tempo [Betano],1a metade,1.95,10,red,0.00,-10.00
+2026-07-07,Copa do Mundo 2026,Suica x Colombia,Empate no 1o tempo [Bet365] (0.5 stake),1a metade,2,11,green,22,11
+2026-07-07,Atletico-MG (avulso),Atletico-MG (ao vivo),Escanteios ao vivo - canto limite (2 bets),Ao vivo,,0,green,,150.5
+2026-09-20,Brasileirao 2026,Flamengo x Bragantino,Flamengo -1 (asiatico) [Betano],Handicap,1.57,10,refund,10,0
+2026-09-20,Brasileirao 2026,Flamengo x Bragantino,Over 2.5 [Betano],Gols total,1.57,10,green,15.7,5.7
+2026-09-20,Brasileirao 2026,Flamengo x Bragantino,Flamengo vence o 1o tempo [Betano],1a metade,1.85,10,green,18.5,8.5
+2026-09-20,Brasileirao 2026,Flamengo x Bragantino,Flamengo marca 2+ gols [Betano],Gols por time,1.42,10,green,14.2,4.2
+2026-09-20,Brasileirao 2026,Flamengo x Bragantino,Ambos Marcam Nao [Betano] (0.5 stake),BTS,1.98,5,red,0,-5
+2026-09-20,Serie A Italia 2026,Milan x Lecce,Milan -1.5 (asiatico) [Betano],Handicap,1.78,10,green,17.8,7.8
+2026-09-20,Serie A Italia 2026,Milan x Lecce,Over 2.5 [Betano],Gols total,1.62,10,green,16.2,6.2
+2026-09-20,Serie A Italia 2026,Milan x Lecce,Milan vence o 1o tempo [Betano],1a metade,1.72,10,green,17.2,7.2
+2026-09-20,Serie A Italia 2026,Milan x Lecce,Lecce nao marca [Betano],Gols por time,1.83,10,green,18.3,8.3
+2026-09-20,Serie A Italia 2026,Milan x Lecce,Ambos Marcam Nao [Betano],BTS,1.72,10,green,17.2,7.2
+2026-09-20,Ligue 1 2026,Marseille x PSG,PSG vence [Betano],Resultado,1.5,10,green,15,5
+2026-09-20,Ligue 1 2026,Marseille x PSG,Ambos Marcam Sim [Betano],BTS,1.5,10,green,15,5
+2026-09-20,Ligue 1 2026,Marseille x PSG,PSG vence o 1o tempo [Betano],1a metade,1.91,10,red,0,-10
+2026-09-20,Ligue 1 2026,Marseille x PSG,Over 2.5 [Betano],Gols total,1.38,10,green,13.8,3.8
+2026-09-20,Ligue 1 2026,Marseille x PSG,PSG marca 2+ gols [Betano],Gols por time,1.35,10,green,13.5,3.5
+2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Petrolul vence [Betano],Resultado,1.78,10,green,17.8,7.8
+2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Petrolul marca 2+ gols [Betano],Gols por time,1.91,10,green,19.1,9.1
+2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Under 2.5 [Betano],Gols total,1.82,10,green,18.2,8.2
+2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Petrolul 0/-0.5 (asiatico) [Betano],Handicap,1.57,10,green,15.7,5.7
+2026-09-21,Liga I Romenia 2026,Petrolul x Csikszereda,Ambos Marcam Nao [Betano],BTS,1.87,10,green,18.7,8.7
+2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Under 2.5 [Betano],Gols total,1.5,10,red,0,-10
+2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Ambos Marcam Nao [Betano],BTS,1.65,10,red,0,-10
+2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Lanus 0/-0.5 (asiatico) [Betano],Handicap,1.85,10,green,18.5,8.5
+2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Empate no 1o tempo [Betano],1a metade,1.87,10,red,0,-10
+2026-09-21,Liga Argentina 2026,Lanus x Estudiantes,Estudiantes nao marca [Betano] (0.5 stake),Gols por time,2.15,5,red,0,-5
+2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Under 2.5 [Betano],Gols total,1.62,10,red,0,-10
+2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Ambos Marcam Nao [Betano],BTS,1.78,10,green,17.8,7.8
+2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Cuiaba 0/-0.5 (asiatico) [Betano],Handicap,1.75,10,green,17.5,7.5
+2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Empate no 1o tempo [Betano],1a metade,1.95,10,red,0,-10
 2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Nautico nao marca [Betano] (0.5 stake),Gols por time,2.37,5,green,11.85,6.85
-2026-09-21,Multipla clubes 2026,Multipla (Aceval + N.Chicago),1X B.Aceval + 1X Nueva Chicago (chance dupla),Multipla,1.72,10,green,17.20,7.20
-2026-09-21,Multipla clubes 2026,Multipla (Criciuma+Otelul+Cuiaba),Criciuma 1X + Otelul U4.5 + Cuiaba U3.5,Multipla,1.63,10,red,0.00,-10.00
-2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Cuiaba marca o primeiro gol (ao vivo) [Betano],Primeiro gol,1.67,10,green,16.70,6.70
-2026-09-22,Colombia Primera A 2026,Medellin x Jaguares,Medellin -1.0 (asiatico) [Betano],Handicap,1.50,10,refund,10.00,0.00
-2026-09-22,Colombia Primera A 2026,Medellin x Jaguares,Over 2.5 [Betano],Gols total,1.67,10,green,16.70,6.70
-2026-09-22,Colombia Primera A 2026,Medellin x Jaguares,Medellin vence o 1o tempo [Betano],1a metade,1.80,10,red,0.00,-10.00
-2026-09-22,Colombia Primera A 2026,Medellin x Jaguares,Medellin vence + marca 2+ (combo) [Betano],Combo,1.52,10,green,15.20,5.20
-2026-09-22,EFL Trophy 2026,MK Dons x Crawley,MK Dons -0.5/-1.0 (asiatico) [Betano],Handicap,1.62,10,green,16.20,6.20
-2026-09-22,EFL Trophy 2026,MK Dons x Crawley,Over 2.5 + MK Dons marca 2+ (combo) [Betano],Combo,1.57,10,green,15.70,5.70
-2026-09-22,EFL Trophy 2026,MK Dons x Crawley,MK Dons vence [Betano],Resultado,1.53,10,green,15.30,5.30
-2026-09-22,EFL Trophy 2026,MK Dons x Crawley,MK Dons vence o 1o tempo [Betano] (0.5 stake),1a metade,1.98,5,green,9.90,4.90
-2026-09-22,EFL Trophy 2026,Peterborough x Colchester,Peterborough 0/-0.5 (asiatico) [Betano],Handicap,1.67,10,green,16.70,6.70
-2026-09-22,EFL Trophy 2026,Peterborough x Colchester,Over 2.5 [Betano],Gols total,1.60,10,green,16.00,6.00
-2026-09-22,EFL Trophy 2026,Peterborough x Colchester,Peterborough marca 2+ gols [Betano],Gols por time,1.75,10,green,17.50,7.50
-2026-09-22,EFL Trophy 2026,Peterborough x Colchester,Peterborough vence [Betano],Resultado,1.93,10,green,19.30,9.30
+2026-09-21,Multipla clubes 2026,Multipla (Aceval + N.Chicago),1X B.Aceval + 1X Nueva Chicago (chance dupla),Multipla,1.72,10,green,17.2,7.2
+2026-09-21,Multipla clubes 2026,Multipla (Criciuma+Otelul+Cuiaba),Criciuma 1X + Otelul U4.5 + Cuiaba U3.5,Multipla,1.63,10,red,0,-10
+2026-09-21,Brasileirao B 2026,Cuiaba x Nautico,Cuiaba marca o primeiro gol (ao vivo) [Betano],Primeiro gol,1.67,10,green,16.7,6.7
+2026-09-22,Colombia Primera A 2026,Medellin x Jaguares,Medellin -1.0 (asiatico) [Betano],Handicap,1.5,10,refund,10,0
+2026-09-22,Colombia Primera A 2026,Medellin x Jaguares,Over 2.5 [Betano],Gols total,1.67,10,green,16.7,6.7
+2026-09-22,Colombia Primera A 2026,Medellin x Jaguares,Medellin vence o 1o tempo [Betano],1a metade,1.8,10,red,0,-10
+2026-09-22,Colombia Primera A 2026,Medellin x Jaguares,Medellin vence + marca 2+ (combo) [Betano],Combo,1.52,10,green,15.2,5.2
+2026-09-22,EFL Trophy 2026,MK Dons x Crawley,MK Dons -0.5/-1.0 (asiatico) [Betano],Handicap,1.62,10,green,16.2,6.2
+2026-09-22,EFL Trophy 2026,MK Dons x Crawley,Over 2.5 + MK Dons marca 2+ (combo) [Betano],Combo,1.57,10,green,15.7,5.7
+2026-09-22,EFL Trophy 2026,MK Dons x Crawley,MK Dons vence [Betano],Resultado,1.53,10,green,15.3,5.3
+2026-09-22,EFL Trophy 2026,MK Dons x Crawley,MK Dons vence o 1o tempo [Betano] (0.5 stake),1a metade,1.98,5,green,9.9,4.9
+2026-09-22,EFL Trophy 2026,Peterborough x Colchester,Peterborough 0/-0.5 (asiatico) [Betano],Handicap,1.67,10,green,16.7,6.7
+2026-09-22,EFL Trophy 2026,Peterborough x Colchester,Over 2.5 [Betano],Gols total,1.6,10,green,16,6
+2026-09-22,EFL Trophy 2026,Peterborough x Colchester,Peterborough marca 2+ gols [Betano],Gols por time,1.75,10,green,17.5,7.5
+2026-09-22,EFL Trophy 2026,Peterborough x Colchester,Peterborough vence [Betano],Resultado,1.93,10,green,19.3,9.3
 2026-09-22,EFL Trophy 2026,Peterborough x Colchester,Ambos Marcam Sim [Betano] (0.5 stake),BTS,1.53,5,green,7.65,2.65
-2026-09-22,UWCL Feminina 2026,Real Madrid W x PSG W,Real Madrid vence [Betano],Resultado,1.62,14,red,0.00,-14.00
-2026-09-22,UWCL Feminina 2026,Real Madrid W x PSG W,Real Madrid -0.5/-1.0 (asiatico) [Betano],Handicap,1.75,14,red,0.00,-14.00
-2026-09-22,UWCL Feminina 2026,Real Madrid W x PSG W,Over 2.5 + Real Madrid marca 2+ (combo) [Betano],Combo,1.72,14,red,0.00,-14.00
+2026-09-22,UWCL Feminina 2026,Real Madrid W x PSG W,Real Madrid vence [Betano],Resultado,1.62,14,red,0,-14
+2026-09-22,UWCL Feminina 2026,Real Madrid W x PSG W,Real Madrid -0.5/-1.0 (asiatico) [Betano],Handicap,1.75,14,red,0,-14
+2026-09-22,UWCL Feminina 2026,Real Madrid W x PSG W,Over 2.5 + Real Madrid marca 2+ (combo) [Betano],Combo,1.72,14,red,0,-14
 2026-09-22,UWCL Feminina 2026,Real Madrid W x PSG W,Ambos Marcam Sim [Betano],BTS,1.53,14,green,21.42,7.42
-2026-09-23,MLS 2026,Seattle Sounders x Real Salt Lake,Seattle ou Empate + Over 1.5 + Escanteios Over 7.5 (combo) [Betano],Combo,1.65,14,green,23.10,9.10
+2026-09-23,MLS 2026,Seattle Sounders x Real Salt Lake,Seattle ou Empate + Over 1.5 + Escanteios Over 7.5 (combo) [Betano],Combo,1.65,14,green,23.1,9.1
 2026-09-23,Colombia Primera A 2026,America de Cali x Aguilas Doradas,America de Cali vence + Under 3.5 (combo) [Betano],Combo,2.22,14,green,31.08,17.08
 2026-09-23,Liga 1 Peru 2026,Tarma x Cienciano,Tarma ou Empate + Under 3.5 (combo) [Betano],Combo,2.27,14,green,31.78,17.78
-2026-09-23,Amistosos Internacionais 2026,Azerbaijao x Tajiquistao,Azerbaijao ou Empate + Under 3.5 (combo) [Betano],Combo,1.60,14,green,22.40,8.40
-2026-09-23,Amistosos Internacionais 2026,Gibraltar x Sao Tome e Principe,Gibraltar ou Empate + Under 3.5 (combo) [Betano],Combo,1.70,14,green,23.80,9.80
-2026-09-24,Multipla clubes 2026,Multipla doida 30 selecoes,Multipla 30 selecoes Chance Dupla (todas X ou Empate) [Betano],Multipla,325.11,5,pendente,,
+2026-09-23,Amistosos Internacionais 2026,Azerbaijao x Tajiquistao,Azerbaijao ou Empate + Under 3.5 (combo) [Betano],Combo,1.6,14,green,22.4,8.4
+2026-09-23,Amistosos Internacionais 2026,Gibraltar x Sao Tome e Principe,Gibraltar ou Empate + Under 3.5 (combo) [Betano],Combo,1.7,14,green,23.8,9.8
+2026-09-24,,Atlético Nacional x Millonarios,Atlético Nacional ou Empate + Menos de 3.5 Gols,Combo,1.78,15,pendente,,
+2026-09-24,Multipla clubes 2026,Multipla doida 30 selecoes,Multipla 30 selecoes Chance Dupla (todas X ou Empate) [Betano],Multipla,325.11,5,red,0,-5
 2026-09-24,UEFA Nations League 2026,Portugal x Wales,Portugal -1.5/-2.0 (asiatico) [Betano],Handicap,1.75,15,pendente,,
 2026-09-24,UEFA Nations League 2026,Portugal x Wales,Over 2.5 [Betano],Gols total,1.55,15,pendente,,
-2026-09-24,UEFA Nations League 2026,Holanda x Alemanha,Over 2.5 [Betano],Gols total,1.50,15,pendente,,
+2026-09-24,UEFA Nations League 2026,Holanda x Alemanha,Over 2.5 [Betano],Gols total,1.5,15,pendente,,
 2026-09-24,Colombia Primera A 2026,Atletico Nacional x Millonarios,Nacional ou Empate + Under 3.5 (combo) [Betano],Combo,1.78,15,pendente,,
 2026-09-24,UEFA Nations League 2026,Holanda x Alemanha,Over 1.5 + Ambas Marcam + Escanteios Over 6.5 (combo) [Betano],Combo,1.65,15,pendente,,
 2026-09-24,Amistosos Internacionais 2026,Coreia do Sul x Equador,Coreia do Sul ou Empate + Under 3.5 (combo) [Betano],Combo,1.53,15,green,22.95,7.95
-2026-09-24,Amistosos Internacionais 2026,Uzbequistao x Ira,Ira ou Empate + Under 3.5 (combo) [Betano],Combo,1.72,15,pendente,,
+2026-09-24,Amistosos Internacionais 2026,Uzbequistao x Ira,Ira ou Empate + Under 3.5 (combo) [Betano],Combo,1.72,15,red,0,-15
 2026-09-24,Multipla selecoes 2026,Multipla 4 selecoes,Portugal ganha 1 tempo + Noruega 1X + Holanda-Alemanha O1.5 + Servia-Grecia U4.5 [Betano],Multipla,1.75,15,pendente,,
