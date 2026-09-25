@@ -262,13 +262,17 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-09-23,Liga 1 Peru 2026,Tarma x Cienciano,Tarma ou Empate + Under 3.5 (combo) [Betano],Combo,2.27,14,green,31.78,17.78
 2026-09-23,Amistosos Internacionais 2026,Azerbaijao x Tajiquistao,Azerbaijao ou Empate + Under 3.5 (combo) [Betano],Combo,1.6,14,green,22.4,8.4
 2026-09-23,Amistosos Internacionais 2026,Gibraltar x Sao Tome e Principe,Gibraltar ou Empate + Under 3.5 (combo) [Betano],Combo,1.7,14,green,23.8,9.8
-2026-09-24,,Atlético Nacional x Millonarios,Atlético Nacional ou Empate + Menos de 3.5 Gols,Combo,1.78,15,pendente,,
 2026-09-24,Multipla clubes 2026,Multipla doida 30 selecoes,Multipla 30 selecoes Chance Dupla (todas X ou Empate) [Betano],Multipla,325.11,5,red,0,-5
 2026-09-24,UEFA Nations League 2026,Portugal x Wales,Portugal -1.5/-2.0 (asiatico) [Betano],Handicap,1.75,15,red,0,-15
 2026-09-24,UEFA Nations League 2026,Portugal x Wales,Over 2.5 [Betano],Gols total,1.55,15,red,0,-15
 2026-09-24,UEFA Nations League 2026,Holanda x Alemanha,Over 2.5 [Betano],Gols total,1.5,15,red,0,-15
-2026-09-24,Colombia Primera A 2026,Atletico Nacional x Millonarios,Nacional ou Empate + Under 3.5 (combo) [Betano],Combo,1.78,15,pendente,,
-2026-09-24,UEFA Nations League 2026,Holanda x Alemanha,Over 1.5 + Ambas Marcam + Escanteios Over 6.5 (combo) [Betano],Combo,1.65,15,pendente,,
+2026-09-24,Colombia Primera A 2026,Atletico Nacional x Millonarios,Nacional ou Empate + Under 3.5 (combo) [Betano],Combo,1.78,15,green,26.7,11.7
+2026-09-24,UEFA Nations League 2026,Holanda x Alemanha,Over 1.5 + Ambas Marcam + Escanteios Over 6.5 (combo) [Betano],Combo,1.65,15,green,24.75,9.75
 2026-09-24,Amistosos Internacionais 2026,Coreia do Sul x Equador,Coreia do Sul ou Empate + Under 3.5 (combo) [Betano],Combo,1.53,15,green,22.95,7.95
 2026-09-24,Amistosos Internacionais 2026,Uzbequistao x Ira,Ira ou Empate + Under 3.5 (combo) [Betano],Combo,1.72,15,red,0,-15
-2026-09-24,Multipla selecoes 2026,Multipla 4 selecoes,Portugal ganha 1 tempo + Noruega 1X + Holanda-Alemanha O1.5 + Servia-Grecia U4.5 [Betano],Multipla,1.75,15,pendente,,
+2026-09-24,Multipla selecoes 2026,Multipla 4 selecoes,Portugal ganha 1 tempo + Noruega 1X + Holanda-Alemanha O1.5 + Servia-Grecia U4.5 [Betano],Multipla,1.75,15,green,26.25,11.25
+2026-09-24,CONCACAF Nations League,Haiti x Trinidad and Tobago,Asian Handicap Home -0.75,Handicap,1.57,15,green,23.55,8.55
+2026-09-24,CONCACAF Nations League,Haiti x Trinidad and Tobago,Match Winner - Haiti,Resultado,1.47,15,green,22.05,7.05
+2026-09-24,CONCACAF Nations League,Haiti x Trinidad and Tobago,Goals Over 2.5,Gols total,1.7,15,green,25.5,10.5
+2026-09-24,CONCACAF Nations League,Haiti x Trinidad and Tobago,Both Teams Score - No,BTS,1.85,7.5,red,0,-7.5
+2026-09-24,CONCACAF Nations League,Haiti x Trinidad and Tobago,Goals Under 1.5 First Half,1ª Metade,1.47,7.5,red,0,-7.5
