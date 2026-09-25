@@ -278,9 +278,9 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-09-24,CONCACAF Nations League,Haiti x Trinidad and Tobago,Goals Under 1.5 First Half,1ª Metade,1.47,7.5,red,0,-7.5
 2026-09-25,Friendlies,Australia x Brazil,Both Teams Score - No,BTS,1.9,19.5,red,0,-19.5
 2026-09-25,UEFA Nations League,Türkiye x France,Asian Handicap - Away +1 (França -1),Handicap,1.57,19.5,pendente,,
-2026-09-25,UEFA Nations League,Türkiye x France,Goals Over/Under - Over 2.75,Gols por time / Gols total,1.4,19.5,pendente,,
-2026-09-25,UEFA Nations League,Türkiye x France,Second Half Winner - Away (França),Resultado,1.62,19.5,pendente,,
-2026-09-25,UEFA Nations League,Türkiye x France,Both Teams to Score - Yes,BTS,1.6,19.5,pendente,,
+2026-09-25,UEFA Nations League,Türkiye x France,Goals Over/Under - Over 2.75,Gols por time / Gols total,1.4,19.5,red,0,-19.5
+2026-09-25,UEFA Nations League,Türkiye x France,Second Half Winner - Away (França),Resultado,1.62,19.5,green,31.59,12.09
+2026-09-25,UEFA Nations League,Türkiye x France,Both Teams to Score - Yes,BTS,1.6,19.5,red,0,-19.5
 2026-09-25,Friendlies,Australia x Brazil,Cards Over 2.5 (jogo todo),Cartões,1.62,19.5,red,0,-19.5
 2026-09-25,Friendlies,Australia x Brazil,Total - Away (Brasil) Over 1.5 gols,Gols por time,1.33,9.75,red,0,-9.75
 2026-09-25,,Austrália x Brasil,Mais de 4.5 Brasil Escanteios + Brasil Resultado Final,Combo,1.7,19.5,red,0,-19.5
@@ -291,15 +291,15 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-09-25,Serie B,Vila Nova x Londrina,First Half Winner - Home,1ª Metade / Defesa,2.2,9.75,pendente,,
 2026-09-25,UEFA Nations League,Georgia x Northern Ireland,Asian Handicap - Home -0.5,Handicap,1.85,19.5,red,0,-19.5
 2026-09-25,UEFA Nations League,Georgia x Northern Ireland,Both Teams Score - No,BTS,1.72,19.5,green,33.54,14.04
-2026-09-25,UEFA Nations League,Georgia x Northern Ireland,Corners Asian Handicap - Home -1.5,Escanteios,1.88,19.5,pendente,,
+2026-09-25,UEFA Nations League,Georgia x Northern Ireland,Corners Asian Handicap - Home -1.5,Escanteios,1.88,19.5,green,36.66,17.16
 2026-09-25,,Georgia x Northern Ireland,Geórgia ou Empate (Chance Dupla) + Menos de 1.5 (Irlanda do Norte - Total de Gols) + Mais de 6.5 (Escanteios),Combo,1.7,19.5,red,0,-19.5
-2026-09-25,UEFA Nations League,Italy x Belgium,Asian Handicap - Home -0.25 (Itália),Handicap,1.93,19.5,pendente,,
-2026-09-25,UEFA Nations League,Italy x Belgium,To Win Either Half - Home (Itália vence pelo menos um tempo),Resultado,1.55,19.5,pendente,,
-2026-09-25,UEFA Nations League,Italy x Belgium,Home Team Total Goals (2nd Half) - Over 0.5 (Itália),Gols por time,1.57,19.5,pendente,,
+2026-09-25,UEFA Nations League,Italy x Belgium,Asian Handicap - Home -0.25 (Itália),Handicap,1.93,19.5,red,0,-19.5
+2026-09-25,UEFA Nations League,Italy x Belgium,To Win Either Half - Home (Itália vence pelo menos um tempo),Resultado,1.55,19.5,red,0,-19.5
+2026-09-25,UEFA Nations League,Italy x Belgium,Home Team Total Goals (2nd Half) - Over 0.5 (Itália),Gols por time,1.57,19.5,red,0,-19.5
 2026-09-25,UEFA Nations League,Italy x Belgium,Corners 1x2 - Home (Itália),Escanteios,1.8,19.5,pendente,,
 2026-09-25,UEFA Nations League,Italy x Belgium,Away Team Total Cards - Over 1.5 (Bélgica),Cartões,1.57,19.5,pendente,,
-2026-09-25,UEFA Nations League,Montenegro x Cyprus,Asian Handicap - Home -0.5,Handicap,1.65,19.5,pendente,,
-2026-09-25,UEFA Nations League,Montenegro x Cyprus,Match Winner - Home (Montenegro),Resultado,1.7,19.5,pendente,,
-2026-09-25,UEFA Nations League,Montenegro x Cyprus,Total - Away (Cyprus) Under 0.5 gols,Gols por time,2.07,9.75,pendente,,
-2026-09-25,UEFA Nations League,Montenegro x Cyprus,Both Teams Score - No,BTS,1.72,19.5,pendente,,
-2026-09-25,UEFA Nations League,Montenegro x Cyprus,Asian Handicap First Half - Home -0.25,Primeiro Tempo,1.82,19.5,pendente,,
+2026-09-25,UEFA Nations League,Montenegro x Cyprus,Asian Handicap - Home -0.5,Handicap,1.65,19.5,green,32.17,12.67
+2026-09-25,UEFA Nations League,Montenegro x Cyprus,Match Winner - Home (Montenegro),Resultado,1.7,19.5,green,33.15,13.65
+2026-09-25,UEFA Nations League,Montenegro x Cyprus,Total - Away (Cyprus) Under 0.5 gols,Gols por time,2.07,9.75,red,0,-9.75
+2026-09-25,UEFA Nations League,Montenegro x Cyprus,Both Teams Score - No,BTS,1.72,19.5,red,0,-19.5
+2026-09-25,UEFA Nations League,Montenegro x Cyprus,Asian Handicap First Half - Home -0.25,Primeiro Tempo,1.82,19.5,red,0,-19.5
