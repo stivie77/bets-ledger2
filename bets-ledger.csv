@@ -276,14 +276,14 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-09-24,CONCACAF Nations League,Haiti x Trinidad and Tobago,Goals Over 2.5,Gols total,1.7,15,green,25.5,10.5
 2026-09-24,CONCACAF Nations League,Haiti x Trinidad and Tobago,Both Teams Score - No,BTS,1.85,7.5,red,0,-7.5
 2026-09-24,CONCACAF Nations League,Haiti x Trinidad and Tobago,Goals Under 1.5 First Half,1ª Metade,1.47,7.5,red,0,-7.5
-2026-09-25,Friendlies,Australia x Brazil,Both Teams Score - No,BTS,1.9,19.5,pendente,,
+2026-09-25,Friendlies,Australia x Brazil,Both Teams Score - No,BTS,1.9,19.5,red,0,-19.5
 2026-09-25,UEFA Nations League,Türkiye x France,Asian Handicap - Away +1 (França -1),Handicap,1.57,19.5,pendente,,
 2026-09-25,UEFA Nations League,Türkiye x France,Goals Over/Under - Over 2.75,Gols por time / Gols total,1.4,19.5,pendente,,
 2026-09-25,UEFA Nations League,Türkiye x France,Second Half Winner - Away (França),Resultado,1.62,19.5,pendente,,
 2026-09-25,UEFA Nations League,Türkiye x France,Both Teams to Score - Yes,BTS,1.6,19.5,pendente,,
 2026-09-25,Friendlies,Australia x Brazil,Cards Over 2.5 (jogo todo),Cartões,1.62,19.5,pendente,,
-2026-09-25,Friendlies,Australia x Brazil,Total - Away (Brasil) Over 1.5 gols,Gols por time,1.33,9.75,pendente,,
-2026-09-25,,Austrália x Brasil,Mais de 4.5 Brasil Escanteios + Brasil Resultado Final,Combo,1.7,19.5,pendente,,
+2026-09-25,Friendlies,Australia x Brazil,Total - Away (Brasil) Over 1.5 gols,Gols por time,1.33,9.75,red,0,-9.75
+2026-09-25,,Austrália x Brasil,Mais de 4.5 Brasil Escanteios + Brasil Resultado Final,Combo,1.7,19.5,red,0,-19.5
 2026-09-25,Serie B,Vila Nova x Londrina,Asian Handicap - Home -0.5,Handicap,1.6,19.5,pendente,,
 2026-09-25,Serie B,Vila Nova x Londrina,Match Winner - Vila Nova,Resultado,1.65,19.5,pendente,,
 2026-09-25,Serie B,Vila Nova x Londrina,Total - Home Over 1.5 (gols do Vila Nova),Gols por time,1.85,19.5,pendente,,
