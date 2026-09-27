@@ -303,4 +303,38 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-09-25,UEFA Nations League,Montenegro x Cyprus,Total - Away (Cyprus) Under 0.5 gols,Gols por time,2.07,9.75,red,0,-9.75
 2026-09-25,UEFA Nations League,Montenegro x Cyprus,Both Teams Score - No,BTS,1.72,19.5,red,0,-19.5
 2026-09-25,UEFA Nations League,Montenegro x Cyprus,Asian Handicap First Half - Home -0.25,Primeiro Tempo,1.82,19.5,red,0,-19.5
-2026-09-25,,Vila Nova x Londrina,Mais de 2.5 - Primeiro Tempo Vila Nova Escanteios,Escanteios,1.95,19.5,pendente,,
+2026-09-25,,Vila Nova x Londrina,Mais de 2.5 - Primeiro Tempo Vila Nova Escanteios,Escanteios,1.95,19.5,green,38.02,18.52
+2026-09-26,UEFA Nations League,England x Spain,Asian Handicap: Espanha (Away) -0.25,Handicap,1.91,18.2,green,34.76,16.56
+2026-09-26,UEFA Nations League,England x Spain,Match Winner: Espanha (Away),Resultado,2.22,9.1,green,20.2,11.1
+2026-09-26,UEFA Nations League,England x Spain,Total - Away (Espanha): Over 1.5 gols,Gols por time,1.98,9.1,green,18.02,8.92
+2026-09-26,UEFA Nations League,England x Spain,Both Teams Score: Yes,BTS,1.6,18.2,green,29.12,10.92
+2026-09-26,UEFA Nations League,England x Spain,Corners Asian Handicap: Away (Espanha) -0.5,Escanteios,1.85,18.2,pendente,,
+2026-09-26,Serie B,Nautico Recife x Sport Recife,Asian Handicap - Away -0.25,Handicap,1.78,18.2,red,0,-18.2
+2026-09-26,Serie B,Nautico Recife x Sport Recife,Double Chance - Draw/Away,Resultado,1.6,18.2,red,0,-18.2
+2026-09-26,Serie B,Nautico Recife x Sport Recife,Both Teams Score - Yes,BTS,1.62,18.2,green,29.48,11.28
+2026-09-26,Serie B,Nautico Recife x Sport Recife,Away Team Total Goals (2nd Half) - Over 0.5,Gols por Tempo,1.75,18.2,green,31.85,13.65
+2026-09-26,Serie B,Nautico Recife x Sport Recife,To Win Either Half - Away,Vencer Qualquer Tempo,1.78,18.2,red,0,-18.2
+2026-09-26,Serie B,Operario-PR x Ceara,Asian Handicap - Home -0.25,Handicap,1.82,18.2,red,0,-18.2
+2026-09-26,Serie B,Operario-PR x Ceara,Draw No Bet - Home,Resultado,1.52,18.2,refund,18.2,0
+2026-09-26,Serie B,Operario-PR x Ceara,Goals Over/Under - Over 1.75,Gols Total,1.42,18.2,green,25.84,7.64
+2026-09-26,Serie B,Operario-PR x Ceara,Both Teams Score - No,BTS,1.78,18.2,red,0,-18.2
+2026-09-26,Serie B,Operario-PR x Ceara,Home Team Total Goals (2nd Half) - Over 0.5,Gols por Time,1.75,18.2,green,31.85,13.65
+2026-09-26,Serie B,Goias x Atletico Goianiense,Resultado sem empate (Empate Anula a Aposta) - Goiás (Home),Resultado,1.78,18.2,red,0,-18.2
+2026-09-26,Serie B,Goias x Atletico Goianiense,Total de Gols - Under 2.0,Gols total,2.42,9.1,green,22.02,12.92
+2026-09-26,Serie B,Goias x Atletico Goianiense,Ambas Marcam - Não,BTS,1.67,18.2,green,30.39,12.19
+2026-09-26,Serie B,Goias x Atletico Goianiense,Escanteios 1x2 - Goiás (Home),Escanteios,1.7,18.2,pendente,,
+2026-09-26,Serie B,Goias x Atletico Goianiense,Total de Cartões - Over 5.5,Cartões,1.85,18.2,pendente,,
+2026-09-27,UEFA Nations League,Denmark x Wales,Asian Handicap - Home -0.75 (Dinamarca),Handicap,1.47,18.2,green,26.75,8.55
+2026-09-27,UEFA Nations League,Denmark x Wales,Both Teams Score - No,BTS,1.83,18.2,green,33.31,15.11
+2026-09-27,UEFA Nations League,Denmark x Wales,Cards Over/Under - Over 3.5,Cartões,1.9,18.2,pendente,,
+2026-09-27,Liga MX,Leon x FC Juarez,Asian Handicap Home -1,Handicap,1.9,18.2,pendente,,
+2026-09-27,Liga MX,Leon x FC Juarez,Match Winner - Home (Leon),Resultado,1.55,18.2,pendente,,
+2026-09-27,Liga MX,Leon x FC Juarez,Total - Home (Leon) Over 1.5,Gols por time,1.54,18.2,pendente,,
+2026-09-27,Liga MX,Leon x FC Juarez,Both Teams Score - No,BTS,2.05,9.1,pendente,,
+2026-09-27,Copa Chile,Universidad de Chile x Everton de Vina,Match Winner - Universidad de Chile (Home),Resultado,2.18,18.2,pendente,,
+2026-09-27,Copa Chile,Universidad de Chile x Everton de Vina,Asian Handicap Home 0,Handicap,1.67,18.2,pendente,,
+2026-09-27,Copa Chile,Universidad de Chile x Everton de Vina,Both Teams Score - Yes,BTS,1.56,18.2,pendente,,
+2026-09-27,Copa Chile,Universidad de Chile x Everton de Vina,Asian Handicap First Half Home -0.25,1ª Metade,1.7,18.2,pendente,,
+2026-09-27,UEFA Nations League,Germany x Greece,Asian Handicap - Home -0.75,Handicap,1.54,18.2,pendente,,
+2026-09-27,UEFA Nations League,Germany x Greece,1x2 - 60 minutos: Home,Resultado,1.46,18.2,pendente,,
+2026-09-27,UEFA Nations League,Germany x Greece,Both Teams Score: Yes,BTS,1.67,18.2,pendente,,
