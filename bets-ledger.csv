@@ -342,10 +342,10 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-09-28,UEFA Nations League,Belgium x France,Both Teams Score - Yes,BTS,1.5,18.2,pendente,,
 2026-09-28,UEFA Nations League,Belgium x France,Away Team Total Goals - Over 1.5,Gols por time,1.65,18.2,pendente,,
 2026-09-28,UEFA Nations League,Belgium x France,Corners 1x2 - Away (França),Escanteios,1.61,18.2,pendente,,
-2026-09-28,Friendlies,Japan x Venezuela,Asian Handicap Home -1.25,Handicap,1.7,18.2,pendente,,
-2026-09-28,Friendlies,Japan x Venezuela,Second Half Winner - Home,Resultado (Segunda metade),1.58,18.2,pendente,,
-2026-09-28,Friendlies,Japan x Venezuela,Both Teams Score - No,BTS,1.6,18.2,pendente,,
-2026-09-28,Friendlies,Japan x Venezuela,Total - Home Over 2.5,Gols por time,2.36,9.1,pendente,,
+2026-09-28,Friendlies,Japan x Venezuela,Asian Handicap Home -1.25,Handicap,1.7,18.2,red,0,-18.2
+2026-09-28,Friendlies,Japan x Venezuela,Second Half Winner - Home,Resultado (Segunda metade),1.58,18.2,green,28.76,10.56
+2026-09-28,Friendlies,Japan x Venezuela,Both Teams Score - No,BTS,1.6,18.2,red,0,-18.2
+2026-09-28,Friendlies,Japan x Venezuela,Total - Home Over 2.5,Gols por time,2.36,9.1,red,0,-9.1
 2026-09-28,Friendlies,South Korea x Uruguay,Match Winner - South Korea,Resultado,2.37,9.1,pendente,,
 2026-09-28,Friendlies,South Korea x Uruguay,Both Teams Score - No,BTS,1.78,18.2,pendente,,
 2026-09-28,Friendlies,South Korea x Uruguay,Corners 1x2 - Home,Escanteios,1.68,18.2,pendente,,
@@ -353,3 +353,4 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-09-28,QSL Cup,Al-Sailiya x Al-Rayyan SC,Match Winner - Away (Al-Rayyan SC),Resultado,1.66,18.2,pendente,,
 2026-09-28,QSL Cup,Al-Sailiya x Al-Rayyan SC,Goals Over/Under - Over 2.5,Gols Total,1.66,18.2,pendente,,
 2026-09-28,QSL Cup,Al-Sailiya x Al-Rayyan SC,Total - Away - Over 1.5,Gols por Time,1.66,18.2,pendente,,
+2026-09-28,Liga MX,Necaxa x Club America,Gols não acontece antes de 60:00 minutos,Gols,1.48,100,red,0,-100
