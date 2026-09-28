@@ -327,10 +327,10 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-09-27,UEFA Nations League,Denmark x Wales,Asian Handicap - Home -0.75 (Dinamarca),Handicap,1.47,18.2,green,26.75,8.55
 2026-09-27,UEFA Nations League,Denmark x Wales,Both Teams Score - No,BTS,1.83,18.2,green,33.31,15.11
 2026-09-27,UEFA Nations League,Denmark x Wales,Cards Over/Under - Over 3.5,Cartões,1.9,18.2,red,0,-18.2
-2026-09-27,Liga MX,Leon x FC Juarez,Asian Handicap Home -1,Handicap,1.9,18.2,pendente,,
-2026-09-27,Liga MX,Leon x FC Juarez,Match Winner - Home (Leon),Resultado,1.55,18.2,pendente,,
-2026-09-27,Liga MX,Leon x FC Juarez,Total - Home (Leon) Over 1.5,Gols por time,1.54,18.2,pendente,,
-2026-09-27,Liga MX,Leon x FC Juarez,Both Teams Score - No,BTS,2.05,9.1,pendente,,
+2026-09-27,Liga MX,Leon x FC Juarez,Asian Handicap Home -1,Handicap,1.9,18.2,refund,18.2,0
+2026-09-27,Liga MX,Leon x FC Juarez,Match Winner - Home (Leon),Resultado,1.55,18.2,green,28.21,10.01
+2026-09-27,Liga MX,Leon x FC Juarez,Total - Home (Leon) Over 1.5,Gols por time,1.54,18.2,green,28.03,9.83
+2026-09-27,Liga MX,Leon x FC Juarez,Both Teams Score - No,BTS,2.05,9.1,red,0,-9.1
 2026-09-27,Copa Chile,Universidad de Chile x Everton de Vina,Match Winner - Universidad de Chile (Home),Resultado,2.18,18.2,red,0,-18.2
 2026-09-27,Copa Chile,Universidad de Chile x Everton de Vina,Asian Handicap Home 0,Handicap,1.67,18.2,refund,18.2,0
 2026-09-27,Copa Chile,Universidad de Chile x Everton de Vina,Both Teams Score - Yes,BTS,1.56,18.2,green,28.39,10.19
@@ -350,3 +350,6 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-09-28,Friendlies,South Korea x Uruguay,Both Teams Score - No,BTS,1.78,18.2,pendente,,
 2026-09-28,Friendlies,South Korea x Uruguay,Corners 1x2 - Home,Escanteios,1.68,18.2,pendente,,
 2026-09-28,UEFA Nations League,Diversos,gols e dupla chance,Combo,10.14,18.2,pendente,,
+2026-09-28,QSL Cup,Al-Sailiya x Al-Rayyan SC,Match Winner - Away (Al-Rayyan SC),Resultado,1.66,18.2,pendente,,
+2026-09-28,QSL Cup,Al-Sailiya x Al-Rayyan SC,Goals Over/Under - Over 2.5,Gols Total,1.66,18.2,pendente,,
+2026-09-28,QSL Cup,Al-Sailiya x Al-Rayyan SC,Total - Away - Over 1.5,Gols por Time,1.66,18.2,pendente,,
