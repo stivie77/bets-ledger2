@@ -354,9 +354,9 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-10-04,UEFA Nations League,Greece x Germany,Goals Over/Under - Under 3.5 (Total),Volume de Gols,1.55,16.9,green,26.2,9.3
 2026-10-04,Friendlies,Brazil U20 x Mexico U20,Match Goals - Under 2.5,Volume/Ritmo de gols,2.56,8.45,red,0,-8.45
 2026-10-04,J2 League,Tegevajaro Miyazaki x Omiya Ardija,Goals Over/Under - Over 2.5 (FT),Volume de Gols,1.78,16.9,red,0,-16.9
-2026-10-05,UEFA Nations League,France x Belgium,Goals Over/Under - Under 3.5,Volume de Gols,1.65,16.9,pendente,,
+2026-10-05,UEFA Nations League,France x Belgium,Goals Over/Under - Under 3.5,Volume de Gols,1.65,16.9,red,0,-16.9
 2026-10-05,UEFA Nations League,Italy x Türkiye,Corners Over/Under: Over 9.5 escanteios,Escanteios/Território,1.82,16.9,pendente,,
-2026-10-05,UEFA Nations League,Ukraine x Hungary,Total de Gols - Under 2.5,Gols Totais,1.58,16.9,pendente,,
-2026-10-05,UEFA Nations League,Bosnia & Herzegovina x Poland,Dupla Chance: Bósnia & Herzegovina ou Empate (Home/Draw),Resultado (Dupla Chance),1.59,16.9,pendente,,
-2026-10-05,UEFA Nations League,Romania x Sweden,Match Winner - Away (Sweden),Match Winner,1.75,16.9,pendente,,
+2026-10-05,UEFA Nations League,Ukraine x Hungary,Total de Gols - Under 2.5,Gols Totais,1.58,16.9,green,26.7,9.8
+2026-10-05,UEFA Nations League,Bosnia & Herzegovina x Poland,Dupla Chance: Bósnia & Herzegovina ou Empate (Home/Draw),Resultado (Dupla Chance),1.59,16.9,green,26.87,9.97
+2026-10-05,UEFA Nations League,Romania x Sweden,Match Winner - Away (Sweden),Match Winner,1.75,16.9,green,29.57,12.67
 2026-10-05,UEFA Nations League,France x Belgium,Total de Escanteios - Over,Territorio,1.83,16.9,pendente,,
