@@ -338,19 +338,23 @@ data,campeonato,jogo,mercado,familia,odd,valor,resultado,retorno,lucro_prejuizo
 2026-09-27,UEFA Nations League,Germany x Greece,Asian Handicap - Home -0.75,Handicap,1.54,18.2,red,0,-18.2
 2026-09-27,UEFA Nations League,Germany x Greece,1x2 - 60 minutos: Home,Resultado,1.46,18.2,red,0,-18.2
 2026-09-27,UEFA Nations League,Germany x Greece,Both Teams Score: Yes,BTS,1.67,18.2,red,0,-18.2
-2026-09-28,UEFA Nations League,Belgium x France,Match Winner - Away (França),Resultado,1.9,18.2,pendente,,
-2026-09-28,UEFA Nations League,Belgium x France,Both Teams Score - Yes,BTS,1.5,18.2,pendente,,
-2026-09-28,UEFA Nations League,Belgium x France,Away Team Total Goals - Over 1.5,Gols por time,1.65,18.2,pendente,,
+2026-09-28,UEFA Nations League,Belgium x France,Match Winner - Away (França),Resultado,1.9,18.2,green,34.58,16.38
+2026-09-28,UEFA Nations League,Belgium x France,Both Teams Score - Yes,BTS,1.5,18.2,red,0,-18.2
+2026-09-28,UEFA Nations League,Belgium x France,Away Team Total Goals - Over 1.5,Gols por time,1.65,18.2,red,0,-18.2
 2026-09-28,UEFA Nations League,Belgium x France,Corners 1x2 - Away (França),Escanteios,1.61,18.2,pendente,,
 2026-09-28,Friendlies,Japan x Venezuela,Asian Handicap Home -1.25,Handicap,1.7,18.2,red,0,-18.2
 2026-09-28,Friendlies,Japan x Venezuela,Second Half Winner - Home,Resultado (Segunda metade),1.58,18.2,green,28.76,10.56
 2026-09-28,Friendlies,Japan x Venezuela,Both Teams Score - No,BTS,1.6,18.2,red,0,-18.2
 2026-09-28,Friendlies,Japan x Venezuela,Total - Home Over 2.5,Gols por time,2.36,9.1,red,0,-9.1
-2026-09-28,Friendlies,South Korea x Uruguay,Match Winner - South Korea,Resultado,2.37,9.1,pendente,,
-2026-09-28,Friendlies,South Korea x Uruguay,Both Teams Score - No,BTS,1.78,18.2,pendente,,
-2026-09-28,Friendlies,South Korea x Uruguay,Corners 1x2 - Home,Escanteios,1.68,18.2,pendente,,
+2026-09-28,Friendlies,South Korea x Uruguay,Match Winner - South Korea,Resultado,2.37,9.1,red,0,-9.1
+2026-09-28,Friendlies,South Korea x Uruguay,Both Teams Score - No,BTS,1.78,18.2,red,0,-18.2
+2026-09-28,Friendlies,South Korea x Uruguay,Corners 1x2 - Home,Escanteios,1.68,18.2,green,30.58,12.38
 2026-09-28,UEFA Nations League,Diversos,gols e dupla chance,Combo,10.14,18.2,pendente,,
-2026-09-28,QSL Cup,Al-Sailiya x Al-Rayyan SC,Match Winner - Away (Al-Rayyan SC),Resultado,1.66,18.2,pendente,,
-2026-09-28,QSL Cup,Al-Sailiya x Al-Rayyan SC,Goals Over/Under - Over 2.5,Gols Total,1.66,18.2,pendente,,
-2026-09-28,QSL Cup,Al-Sailiya x Al-Rayyan SC,Total - Away - Over 1.5,Gols por Time,1.66,18.2,pendente,,
-2026-09-28,Liga MX,Necaxa x Club America,Gols não acontece antes de 60:00 minutos,Gols,1.48,100,red,0,-100
+2026-09-28,QSL Cup,Al-Sailiya x Al-Rayyan SC,Match Winner - Away (Al-Rayyan SC),Resultado,1.66,18.2,red,0,-18.2
+2026-09-28,QSL Cup,Al-Sailiya x Al-Rayyan SC,Goals Over/Under - Over 2.5,Gols Total,1.66,18.2,red,0,-18.2
+2026-09-28,QSL Cup,Al-Sailiya x Al-Rayyan SC,Total - Away - Over 1.5,Gols por Time,1.66,18.2,red,0,-18.2
+2026-10-01,UEFA Nations League,Germany x Serbia,"Total Corners - Over 2ª metade (linha alta, odd 2.0)",Território/Escanteios,2.1,8.45,pendente,,
+2026-10-01,UEFA Nations League,Germany x Serbia,Away Total Shots - Under (Sérvia sem criar nada),Grind-Proof/Defesa sólida (BTS indireto),1.61,16.9,pendente,,
+2026-10-04,UEFA Nations League,Greece x Germany,Goals Over/Under - Under 3.5 (Total),Volume de Gols,1.55,16.9,green,26.2,9.3
+2026-10-04,Friendlies,Brazil U20 x Mexico U20,Match Goals - Under 2.5,Volume/Ritmo de gols,2.56,8.45,red,0,-8.45
+2026-10-04,J2 League,Tegevajaro Miyazaki x Omiya Ardija,Goals Over/Under - Over 2.5 (FT),Volume de Gols,1.78,16.9,red,0,-16.9
